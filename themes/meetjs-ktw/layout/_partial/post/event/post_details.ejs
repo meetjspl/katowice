@@ -1,0 +1,7 @@
+<strong>Wydarzenie</strong>
+<% if (post.event.time) { %>
+<time datetime="<%= date_xml(post.event.time) %>"><%= date(post.event.time, config.event.date_format) %></time>
+<% } %>
+<% if (post.event.place) { %>
+<span><%= post.event.place.name %></span>
+<% } %>

@@ -1,0 +1,32 @@
+<% if (page.event) { %>
+<div class="event">
+  <div class="event-time">
+    <span class="label">Kiedy</span>
+    <span><time datetime="<%= date_xml(page.event.time) %>"><%= date(page.event.time, config.event.date_format) %></time></span>
+  </div>
+  <div class="event-place">
+    <span class="label">Gdzie</span>
+    <span><%= page.event.place.name %></span>
+    <span>
+    <% if (page.event.place.url) { %>
+      <%- icon_link('globe', page.event.place.url, page.event.place.name) %>
+    <% } %>
+    <% if (page.event.place.geo) { %>
+      <%- icon_link('map-marker', `https://www.google.pl/maps/dir//${page.event.place.geo}/@${page.event.place.geo},17z`, 'Prowadź do') %>
+    <% } %>
+    </span>
+  </div>
+  <div class="event-social">
+    <span class="label">Portale</span>
+    <ul id="sociallinks">
+      <% for(var i in page.event.social_links) { %>
+        <li><a target="_blank" href="<%- url_for(page.event.social_links[i]) %>" title="<%= i %>"><%= i %></a></li>
+      <% } %>
+    </ul>
+  </div>
+  <div class="event-tickets">
+    <span class="label">Bilety</span>
+    <a target="_blank" href="<%= page.event.tickets %>" title="Bilety"><%= extract_domain(page.event.tickets) %></a>
+  </div>
+</div>
+<% } %>

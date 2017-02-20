@@ -1,0 +1,20 @@
+<span class="h1">Archiwum</span>
+<ul class="post-list">
+  <% page.posts.sort('date', 'desc').each(function(post) { %>
+    <li class="post-item">
+      <% if (post.event) { %>
+        <span class="post-meta event-details">
+          <%- partial('_partial/post/event/post_details', { post: post }) %>
+        </span>
+      <% } else { %>
+      <span class="post-meta">
+        <%- partial('_partial/post/date', { post: post, class_name: 'meta' }) %>
+      </span>
+      <% } %>
+      <span class="post-title">
+        <%- partial('_partial/post/title', { post: post, index: true, class_name: '' }) %>
+      </span>
+    </li>
+  <% }); %>
+</ul>
+

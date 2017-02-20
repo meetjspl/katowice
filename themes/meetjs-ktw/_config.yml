@@ -1,0 +1,29 @@
+customize:
+  logo:
+    enabled: true
+    width: 130
+    height: 50
+    url: /images/logo.png
+  favicon: 
+    desktop:
+      url: /images/favicon.png
+    android:
+      url: /images/favicon-192x192.png
+    apple:
+      url: /images/apple-touch-icon.png
+  social_links:
+    facebook: https://www.facebook.com/meetjspl/
+    twitter: https://twitter.com/meetjs
+  post_count: 5
+  highlight: monokai
+
+# RSS
+rss:
+
+# Plugins
+plugins:
+  google_analytics: # enter the tracking ID for your Google Analytics
+
+# Miscellaneous
+miscellaneous:
+  open_graph: # see http://ogp.me

@@ -1,0 +1,33 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <%- open_graph({
+        image:          thumbnail(page),
+    }) %>
+    <%- meta(page) %>
+    <% if (theme.customize.favicon) { %>
+        <% if (theme.customize.favicon.desktop) { %>
+            <link rel="shortcut icon" href="<%= url_for(theme.customize.favicon.desktop.url) %>">
+        <% } %>
+        <% if (theme.customize.favicon.android) { %>
+          <link rel="icon" type="image/png" href="<%= url_for(theme.customize.favicon.android.url) %>" sizes="192x192">
+        <% } %>
+        <% if (theme.customize.favicon.apple) { %>
+          <link rel="apple-touch-icon" sizes="180x180" href="<%= url_for(theme.customize.favicon.apple.url) %>">
+        <% } %>
+    <% } %>
+    <title><%= page.title ? page.title : config.title %></title>
+    <%- css('lib/font-awesome/css/font-awesome.min') %>
+    <%- css('lib/meslo-LG/styles') %>
+    <%- css('lib/justified-gallery/justifiedGallery.min.css') %>
+    <%- css('css/style') %>
+    <% if (theme.rss === '' && config.feed && config.feed.path) { %>
+      <% theme.rss = config.feed.path %>
+    <% } %>
+    <% if (theme.rss) { %>
+      <link rel="alternate" href="<%= url_for(theme.rss) %>" title="<%= config.title %>" type="application/atom+xml" />
+    <% } %>
+    <%- js('lib/jquery/jquery.min') %>
+</head>

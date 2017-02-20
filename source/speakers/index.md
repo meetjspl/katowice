@@ -17,6 +17,7 @@ Tutaj możesz znaleźć listę naszych prelegentów i wygłoszonych przez nich p
 ### Prezentacje
 
 * {% post_link meetjs-katowice-23 #23 %} (2017-02-15) - *Server side rendering w React*
+Materiały: {% icon_link external-link http://bit.ly/2lecwhb Slajdy %}
 
 ## Szymon Nowak {% icon_link github https://github.com/szimek %} {% icon_link twitter https://twitter.com/szimek %}
 

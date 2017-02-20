@@ -22,7 +22,7 @@ rss:
 
 # Plugins
 plugins:
-  google_analytics: # enter the tracking ID for your Google Analytics
+  google_analytics: UA-10721851-12 # enter the tracking ID for your Google Analytics
 
 # Miscellaneous
 miscellaneous:

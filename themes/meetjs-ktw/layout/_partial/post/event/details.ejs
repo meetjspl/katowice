@@ -16,17 +16,21 @@
     <% } %>
     </span>
   </div>
+  <% if (page.event.social_links) { %>
   <div class="event-social">
     <span class="label">Portale</span>
     <ul id="sociallinks">
-      <% for(var i in page.event.social_links) { %>
+      <% for (var i in page.event.social_links) { %>
         <li><a target="_blank" href="<%- url_for(page.event.social_links[i]) %>" title="<%= i %>"><%= i %></a></li>
       <% } %>
     </ul>
   </div>
+  <% } %>
+  <% if (page.event.tickets) { %>
   <div class="event-tickets">
     <span class="label">Bilety</span>
     <a target="_blank" href="<%= page.event.tickets %>" title="Bilety"><%= extract_domain(page.event.tickets) %></a>
   </div>
+  <% } %>
 </div>
 <% } %>

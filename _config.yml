@@ -6,7 +6,7 @@ subtitle: informacje o spotkaniach
 description: Niekomercyjne spotkania JavaScript i Front-end typu meetup, organizowane przez społeczność dla społeczności w Katowicach. Zero komercji, czysta wiedza.
 author: meet.js Katowice
 language: pl
-timezone: CET
+timezone: Europe/Warsaw
 
 # URL
 url: https://katowice.meetjs.pl

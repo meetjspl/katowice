@@ -6,6 +6,8 @@ event:
     name: 'Strefa Centralna Katowice'
     url: https://pl-pl.facebook.com/pages/Strefa-Centralna/1376006482624106
     geo: 50.253252,19.023677
+  social_links:
+    facebook: https://www.facebook.com/events/1237767239670472
 date: 2017-03-20 19:49:15
 categories:
   - 'Spotkanie'

@@ -8,6 +8,8 @@ event:
     geo: 50.253252,19.023677
   social_links:
     facebook: https://www.facebook.com/events/1237767239670472
+    meetup: https://www.meetup.com/pl-PL/meet-js-Katowice/events/238919603/
+  tickets: https://www.eventbrite.com/e/meetjs-katowice-24-registration-33380471890
 date: 2017-03-20 19:49:15
 categories:
   - 'Spotkanie'

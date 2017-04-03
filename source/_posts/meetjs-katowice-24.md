@@ -33,6 +33,9 @@ Dziękujemy [Skygate][skygate], [Coders Lab - Szkoła Programowania][coderslab],
 1. {% talk 'Krzysztof Kornacki' 'Vue.js - Wprowadzenie' %}
 Wkrótce...
 {% endtalk %}
+2. {% talk 'Benedykt Dryl' 'Performance !== Performance' %}
+Performance !== Performance: niezależnie od tego czy piszesz SPA, grę w HTML5 czy skrypty jQuery, powinieneś zwracać uwagę na wydajnóść Twoich rozwiązań. Podczas prezentacji, chcę pokazać na co warto zwracać uwagę podczas tworzenia konretnych rozwiązań, które aspekty wydajności podejmować w drugiej kolejności a które w danym przypadku zarzucić.
+{% endtalk %}
 
 ## Sponsorzy
 

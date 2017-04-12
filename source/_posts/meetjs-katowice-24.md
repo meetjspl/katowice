@@ -31,7 +31,8 @@ Dziękujemy [Skygate][skygate], [Coders Lab - Szkoła Programowania][coderslab],
 ## Agenda
 
 1. {% talk 'Krzysztof Kornacki' 'Vue.js - Wprowadzenie' %}
-Wkrótce...
+Frontend-owy świat podzielony jest pomiędzy kolejnymi wersjami bibliotek Angular i React. W ostatnim czasie jednak do gry wkroczył nowy gracz - Vue.js. Czy jest w stanie na tyle namieszać, by przekonać do siebie chociaż część JavaScript-owej społeczności? 
+Podczas prezentacji postaram się omówić podstawowe zagadnienia tego frameworka i wprowadzić w świat Vue.
 {% endtalk %}
 2. {% talk 'Benedykt Dryl' 'Performance !== Performance' %}
 Performance !== Performance: niezależnie od tego czy piszesz SPA, grę w HTML5 czy skrypty jQuery, powinieneś zwracać uwagę na wydajnóść Twoich rozwiązań. Podczas prezentacji, chcę pokazać na co warto zwracać uwagę podczas tworzenia konretnych rozwiązań, które aspekty wydajności podejmować w drugiej kolejności a które w danym przypadku zarzucić.

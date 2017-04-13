@@ -6,11 +6,12 @@ date: 2017-02-17 13:04:11
 
 Tutaj możesz znaleźć listę naszych prelegentów i wygłoszonych przez nich prezentacji oraz odnośnikami do przedstawionych na spotkaniu materiałów.
 
-## Benedykt Dryl {% icon_link github https://gist.github.com/cypherq %}
+## Benedykt Dryl {% icon_link github https://gist.github.com/cypherq %} {% icon_link twitter https://twitter.com/cypherq %}
 
 ### Prezentacje
 
 * {% post_link meetjs-katowice-24 #24 %} (2017-04-12) - *Performance !== Performance*
+Materiały: {% icon_link external-link http://bit.ly/2ouMhop Slajdy %}
 
 ## Wojciech Gawroński {% icon_link globe http://afronski.pl %} {% icon_link github https://github.com/afronski %} {% icon_link twitter https://twitter.com/afronski %}
 
@@ -24,6 +25,13 @@ Tutaj możesz znaleźć listę naszych prelegentów i wygłoszonych przez nich p
 
 * {% post_link meetjs-katowice-23 #23 %} (2017-02-15) - *Server side rendering w React*
 Materiały: {% icon_link external-link http://bit.ly/2lecwhb Slajdy %}
+
+## Krzysztof Kornacki
+
+### Prezentacje
+
+* {% post_link meetjs-katowice-24 #24 %} (2017-04-12) - *Vue.js - Wprowadzenie*
+Materiały: {% icon_link external-link http://bit.ly/2oC4ZLd Slajdy %}
 
 ## Szymon Nowak {% icon_link github https://github.com/szimek %} {% icon_link twitter https://twitter.com/szimek %}
 

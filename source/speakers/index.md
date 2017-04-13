@@ -18,6 +18,7 @@ Materiały: {% icon_link external-link http://bit.ly/2ouMhop Slajdy %}
 ### Prezentacje
 
 * {% post_link meetjs-katowice-23 #23 %} (2017-02-15) - *Functional Programming In The Wild*
+Materiały: {% icon_link external-link http://bit.ly/2pbNK13 Slajdy %}
 
 ## Marcin Koba
 

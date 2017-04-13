@@ -42,6 +42,10 @@ Performance !== Performance: niezależnie od tego czy piszesz SPA, grę w HTML5 
 
 [{% img /images/sponsors/skygate.png 240 88 Skygate %}][skygate][{% img /images/sponsors/coderslab.png 240 88 Coders Lab %}][coderslab][{% img /images/sponsors/smsapi.png 240 88 SMSApi %}][smsapi][{% img /images/sponsors/helion.png 240 88 Helion %}][helion]
 
+## Media i materiały
+
+- [Prezentacja otwierająca](http://bit.ly/2ouMdFb)
+
 [skygate]: https://skygate.pl
 [coderslab]: http://www.coderslab.pl
 [smsapi]: https://www.smsapi.com

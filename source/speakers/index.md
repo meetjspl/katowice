@@ -6,7 +6,7 @@ date: 2017-02-17 13:04:11
 
 Tutaj możesz znaleźć listę naszych prelegentów i wygłoszonych przez nich prezentacji oraz odnośnikami do przedstawionych na spotkaniu materiałów.
 
-## Benedykt Dryl {% icon_link github https://gist.github.com/cypherq %} {% icon_link twitter https://twitter.com/cypherq %}
+## Benedykt Dryl {% icon_link github https://github.com/cypherq %} {% icon_link twitter https://twitter.com/benedyktdryl %}
 
 ### Prezentacje
 

@@ -45,6 +45,7 @@ Performance !== Performance: niezależnie od tego czy piszesz SPA, grę w HTML5 
 ## Media i materiały
 
 - [Prezentacja otwierająca](http://bit.ly/2ouMdFb)
+- [Galeria zdjęć](https://www.facebook.com/pg/meetjspl/photos/?tab=album&album_id=1476771719063349)
 
 [skygate]: https://skygate.pl
 [coderslab]: http://www.coderslab.pl

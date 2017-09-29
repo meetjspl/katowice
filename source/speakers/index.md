@@ -13,6 +13,12 @@ Tutaj możesz znaleźć listę naszych prelegentów i wygłoszonych przez nich p
 * {% post_link meetjs-katowice-24 #24 %} (2017-04-12) - *Performance !== Performance*
 Materiały: {% icon_link external-link http://bit.ly/2ouMhop Slajdy %}
 
+## Jakub Elżbieciak {% icon_link globe https://elzbieciak.pl %} {% icon_link github https://github.com/jelz %} {% icon_link twitter https://twitter.com/jelzbieciak %}
+
+### Prezentacje
+
+* {% post_link meetjs-katowice-25 #25 %} (2017-05-31) - *Wstęp do GraphQL*
+
 ## Wojciech Gawroński {% icon_link globe http://afronski.pl %} {% icon_link github https://github.com/afronski %} {% icon_link twitter https://twitter.com/afronski %}
 
 ### Prezentacje
@@ -33,6 +39,12 @@ Materiały: {% icon_link external-link http://bit.ly/2lecwhb Slajdy %}
 
 * {% post_link meetjs-katowice-24 #24 %} (2017-04-12) - *Vue.js - Wprowadzenie*
 Materiały: {% icon_link external-link http://bit.ly/2oC4ZLd Slajdy %}
+
+## Staś Małolepszy {% icon_link github https://github.com/stasm %} {% icon_link twitter https://twitter.com/stas %}
+
+### Prezentacje
+
+* {% post_link meetjs-katowice-25 #25 %} (2017-05-31) - *Bot, cała historia!*
 
 ## Szymon Nowak {% icon_link github https://github.com/szimek %} {% icon_link twitter https://twitter.com/szimek %}
 

@@ -56,6 +56,11 @@ pagination_dir: page
 # Extensions
 theme: meetjs-ktw
 
+archive_generator:
+  per_page: 10
+  yearly: true
+  monthly: true
+
 nav:
   Informacje: /
   Prelegenci: /speakers/

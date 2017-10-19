@@ -40,6 +40,13 @@ Materiały: {% icon_link external-link http://bit.ly/2lecwhb Slajdy %}
 * {% post_link meetjs-katowice-24 #24 %} (2017-04-12) - *Vue.js - Wprowadzenie*
 Materiały: {% icon_link external-link http://bit.ly/2oC4ZLd Slajdy %}
 
+## Maciek Korsan {% icon_link github https://github.com/maciejkorsan %} {% icon_link twitter https://twitter.com/maciejkorsan %}
+
+### Prezentacje
+
+* {% post_link meetjs-katowice-26 #26 %} (2017-10-18) - *DISCO.JS*
+Materiały: {% icon_link external-link http://bit.ly/2gljNZr Slajdy %} {% icon_link github http://bit.ly/2zkiPnI Przykłady %}
+
 ## Staś Małolepszy {% icon_link github https://github.com/stasm %} {% icon_link twitter https://twitter.com/stas %}
 
 ### Prezentacje

@@ -6,6 +6,9 @@ event:
     name: 'Strefa Centralna Katowice'
     url: https://pl-pl.facebook.com/pages/Strefa-Centralna/1376006482624106
     geo: 50.253252,19.023677
+  social_links:
+    facebook: https://www.facebook.com/events/164542464136154/
+    meetup: https://www.meetup.com/meet-js-Katowice/events/245071244/
 date: 2017-09-29 16:31:17
 categories:
   - 'Spotkanie'

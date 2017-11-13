@@ -9,6 +9,7 @@ event:
   social_links:
     facebook: https://www.facebook.com/events/164542464136154/
     meetup: https://www.meetup.com/meet-js-Katowice/events/245071244/
+  tickets: https://www.eventbrite.com/e/meetjs-katowice-27-tickets-39836954403
 date: 2017-09-29 16:31:17
 categories:
   - 'Spotkanie'

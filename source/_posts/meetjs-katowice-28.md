@@ -6,6 +6,9 @@ event:
     name: 'Strefa Centralna Katowice'
     url: https://pl-pl.facebook.com/pages/Strefa-Centralna/1376006482624106
     geo: 50.253252,19.023677
+  social_links:
+    facebook: https://www.facebook.com/events/1975184316138624/
+    meetup: https://www.meetup.com/meet-js-Katowice/events/245867878/
 date: 2017-11-23 09:54:21
 categories:
   - 'Spotkanie'
@@ -26,7 +29,9 @@ Dziękujemy [Skygate][skygate], [Coders Lab - Szkoła Programowania][coderslab],
 
 ## Agenda
 
-TBA
+1. {% talk 'Szymon Nowak' 'Gatsby' %}
+Szybkie narzędzie do generowania statycznych stron używających React.js
+{% endtalk %}
 
 ## Sponsorzy
 

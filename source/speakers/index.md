@@ -60,6 +60,8 @@ Materiały: {% icon_link external-link http://bit.ly/2gljNZr Slajdy %} {% icon_l
 * {% post_link meetjs-katowice-22 #22 %} (2016-11-30) - *Dlaczego potrzebuję trzech bibliotek, aby uruchomić jeden test?*
 Materiały: {% icon_link external-link http://bit.ly/2gIQ8eD Slajdy %} {% icon_link youtube-play https://www.youtube.com/watch?v=ywlq9gyoX0I&list=PLMCOR-t1TNtciYJs-rgNsTwZGooXu58Rs&index=3 'Nagranie wideo' %}
 
+* {% post_link meetjs-katowice-28 #28 %} (2017-12-20) - *Gatsby*
+
 ## Jacek Rzeszutek {% icon_link github https://github.com/grechut %} {% icon_link twitter https://twitter.com/grechut %}
 
 ### Prezentacje

@@ -40,7 +40,8 @@ Dzięki wsparciu sponsorów możemy zapewnić naszym uczestnikom darmowy poczęs
 Z organizatorami spotkań można skontaktować się bezpośrednio:
 
 * Jakub Synowiec {% icon_link facebook https://www.facebook.com/jakub.synowiec %} {% icon_link twitter https://twitter.com/jakubsynowiec %}
-* Szymon Nowak {% icon_link facebook https://www.facebook.com/szimek/ %} {% icon_link twitter https://www.facebook.com/szimek/ %}
+* Szymon Nowak {% icon_link facebook https://www.facebook.com/szimek %} {% icon_link twitter https://www.twitter.com/szimek %}
+* Jacek Rzeszutek {% icon_link facebook https://www.facebook.com/jacek.rzeszutek.1 %} {% icon_link twitter https://www.twitter.com/grechut %}
 
 lub za pomocą:
 

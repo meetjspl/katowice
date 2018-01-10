@@ -9,6 +9,7 @@ event:
   social_links:
     facebook: https://www.facebook.com/events/1975184316138624/
     meetup: https://www.meetup.com/meet-js-Katowice/events/245867878/
+  tickets: https://www.eventbrite.com/e/meetjs-katowice-28-christmas-2017-special-event-tickets-41221845650
 date: 2017-11-23 09:54:21
 categories:
   - 'Spotkanie'
@@ -36,6 +37,11 @@ Szybkie narzędzie do generowania statycznych stron używających React.js
 ## Sponsorzy
 
 [{% img /images/sponsors/skygate.png 240 88 Skygate %}][skygate][{% img /images/sponsors/coderslab.png 240 88 Coders Lab %}][coderslab][{% img /images/sponsors/smsapi.png 240 88 SMSApi %}][smsapi][{% img /images/sponsors/helion.png 240 88 Helion %}][helion]
+
+## Media i materiały
+
+- [Prezentacja otwierająca](http://bit.ly/2BkuqnW)
+- [Galeria zdjęć](https://www.facebook.com/pg/meetjspl/photos/?tab=album&album_id=1782957835111401)
 
 [skygate]: https://skygate.pl
 [coderslab]: http://www.coderslab.pl

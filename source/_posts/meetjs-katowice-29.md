@@ -34,3 +34,14 @@ TypeScript zdobywa coraz większą popularność w każdej dziedzinie, gdzie JS 
 2. {% talk 'Jakub Synowiec' 'Co ma wspólnego TypeScript i Electron z jakością powietrza?' %}
 Airqmon to mała aplikacja narzędziowa, która wyświetla na pasku informacje o aktualnym stanie powietrza pobrane z najbliższej stacji pomiarowej. To prosty projekt - stworzenie pierwszej, działającej wersji zajęło niespełna 12 godzin. Prezentacja to studium przypadku. Będzie trochę o TypeScript, Electron, npm, integracji z API, wyzwaniach, napotkanych problemach i rozwiązaniach.
 {% endtalk %}
+
+## Sponsorzy
+
+[{% img /images/sponsors/skygate.png 240 88 Skygate %}][skygate][{% img /images/sponsors/helion.png 240 88 Helion %}][helion][{% img /images/sponsors/jetbrains.png 240 88 JetBrains %}][jetbrains][{% img /images/sponsors/sketch.png 240 88 Sketch %}][sketch][{% img /images/sponsors/frontendmasters.png 240 88 FrontendMasters %}][frontendmasters][{% img /images/sponsors/slido.png 240 88 sli.do %}][slido]
+
+[skygate]: https://skygate.pl
+[helion]: http://helion.pl/
+[jetbrains]: https://www.jetbrains.com
+[sketch]: https://www.sketchapp.com
+[frontendmasters]: https://frontendmasters.com
+[slido]: https://www.sli.do

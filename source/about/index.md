@@ -20,19 +20,29 @@ Wstęp na spotkania jest darmowy, obowiązuje jednak rejestracja i okazanie przy
 
 Dzięki wsparciu sponsorów możemy zapewnić naszym uczestnikom darmowy poczęstunek, różne ciekawe gadżety oraz nagrody rzeczowe (m.in książki, kursy, licencje), zaprosić prelegentów z innych miast oraz zapewnić odpowiedni poziom organizacji i odbioru spotkań.
 
-### Aktualni (2017)
+### Aktualni (2018)
+
+* [Skygate](https://skygate.pl/)
+* [NBC](https://www.nbc.com.pl)
+* [Helion](https://helion.pl/)
+* [Frontend Masters](https://frontendmasters.com)
+* [sli.do](https://www.sli.do)
+* [Sketch](https://www.sketchapp.com)
+
+### 2017
 
 * [SMSApi](https://www.smsapi.pl/)
-* [Skygate](http://skygate.pl/)
-* [Coders Lab](http://coderslab.pl/)
-* [Helion](http://helion.pl/)
+* [Skygate](https://skygate.pl/)
+* [Coders Lab](https://coderslab.pl/)
+* [Helion](https://helion.pl/)
+* [sli.do](https://www.sli.do)
 
 #### 2016
 
 * [Future Mind](https://www.futuremind.com/en/)
 * [SMSApi](https://www.smsapi.pl/)
-* [Coders Lab](http://coderslab.pl/)
-* [Helion](http://helion.pl/)
+* [Coders Lab](https://coderslab.pl/)
+* [Helion](https://helion.pl/)
 * [Microsoft](https://www.microsoft.com/pl-pl/)
 
 ## Kontakt

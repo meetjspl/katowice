@@ -25,16 +25,18 @@ Dzięki wsparciu sponsorów możemy zapewnić naszym uczestnikom darmowy poczęs
 * [Skygate](https://skygate.pl/)
 * [NBC](https://www.nbc.com.pl)
 * [Helion](https://helion.pl/)
+* [JetBrains](https://www.jetbrains.com)
 * [Frontend Masters](https://frontendmasters.com)
 * [sli.do](https://www.sli.do)
 * [Sketch](https://www.sketchapp.com)
 
-### 2017
+#### 2017
 
 * [SMSApi](https://www.smsapi.pl/)
 * [Skygate](https://skygate.pl/)
 * [Coders Lab](https://coderslab.pl/)
 * [Helion](https://helion.pl/)
+* [JetBrains](https://www.jetbrains.com)
 * [sli.do](https://www.sli.do)
 
 #### 2016
@@ -44,6 +46,7 @@ Dzięki wsparciu sponsorów możemy zapewnić naszym uczestnikom darmowy poczęs
 * [Coders Lab](https://coderslab.pl/)
 * [Helion](https://helion.pl/)
 * [Microsoft](https://www.microsoft.com/pl-pl/)
+* [JetBrains](https://www.jetbrains.com)
 
 ## Kontakt
 

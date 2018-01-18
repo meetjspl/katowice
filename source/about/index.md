@@ -22,7 +22,7 @@ Dzięki wsparciu sponsorów możemy zapewnić naszym uczestnikom darmowy poczęs
 
 ### Aktualni (2018)
 
-* [Skygate](https://skygate.pl/)
+* [Skygate](https://skygate.io/)
 * [NBC](https://www.nbc.com.pl)
 * [Helion](https://helion.pl/)
 * [JetBrains](https://www.jetbrains.com)
@@ -33,7 +33,7 @@ Dzięki wsparciu sponsorów możemy zapewnić naszym uczestnikom darmowy poczęs
 #### 2017
 
 * [SMSApi](https://www.smsapi.pl/)
-* [Skygate](https://skygate.pl/)
+* [Skygate](https://skygate.io/)
 * [Coders Lab](https://coderslab.pl/)
 * [Helion](https://helion.pl/)
 * [JetBrains](https://www.jetbrains.com)

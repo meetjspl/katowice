@@ -39,7 +39,7 @@ Airqmon to mała aplikacja narzędziowa, która wyświetla na pasku informacje o
 
 [{% img /images/sponsors/skygate.png 240 88 Skygate %}][skygate][{% img /images/sponsors/helion.png 240 88 Helion %}][helion][{% img /images/sponsors/jetbrains.png 240 88 JetBrains %}][jetbrains][{% img /images/sponsors/sketch.png 240 88 Sketch %}][sketch][{% img /images/sponsors/frontendmasters.png 240 88 FrontendMasters %}][frontendmasters][{% img /images/sponsors/slido.png 240 88 sli.do %}][slido]
 
-[skygate]: https://skygate.pl
+[skygate]: https://skygate.io
 [helion]: http://helion.pl/
 [jetbrains]: https://www.jetbrains.com
 [sketch]: https://www.sketchapp.com

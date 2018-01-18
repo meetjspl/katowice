@@ -48,7 +48,7 @@ Podczas prelekcji zostanie zaprezentowana idea server side renderingu. Prelegent
 - [Prezentacja otwierająca](http://bit.ly/2kR08jC)
 - [Galeria zdjęć](https://www.facebook.com/pg/meetjspl/photos/?tab=album&album_id=1397162680357587)
 
-[skygate]: https://skygate.pl
+[skygate]: https://skygate.io
 [coderslab]: http://www.coderslab.pl
 [smsapi]: https://www.smsapi.com
 [helion]: http://helion.pl/

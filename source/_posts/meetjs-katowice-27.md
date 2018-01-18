@@ -41,7 +41,7 @@ Opowiem czym jest Ember.js obecnie. W jakich kontekstach spisuje się znakomicie
 
 [{% img /images/sponsors/skygate.png 240 88 Skygate %}][skygate][{% img /images/sponsors/coderslab.png 240 88 Coders Lab %}][coderslab][{% img /images/sponsors/smsapi.png 240 88 SMSApi %}][smsapi][{% img /images/sponsors/helion.png 240 88 Helion %}][helion]
 
-[skygate]: https://skygate.pl
+[skygate]: https://skygate.io
 [coderslab]: http://www.coderslab.pl
 [smsapi]: https://www.smsapi.com
 [helion]: http://helion.pl/

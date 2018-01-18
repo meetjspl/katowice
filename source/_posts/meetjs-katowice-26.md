@@ -52,7 +52,7 @@ Jeżeli interesuje was dlaczego stworzylismy Kakunina, jakie problemy rozwiązuj
 - [Galeria zdjęć](https://www.facebook.com/126046920802509/photos/?tab=album&album_id=1706873732719812)
 - [Nagrania wideo](https://www.youtube.com/playlist?list=PLMCOR-t1TNtejbKBZUwuwAkzXwXfwXddz)
 
-[skygate]: https://skygate.pl
+[skygate]: https://skygate.io
 [coderslab]: http://www.coderslab.pl
 [smsapi]: https://www.smsapi.com
 [helion]: http://helion.pl/

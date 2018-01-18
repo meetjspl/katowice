@@ -43,7 +43,7 @@ Szybkie narzędzie do generowania statycznych stron używających React.js
 - [Prezentacja otwierająca](http://bit.ly/2BkuqnW)
 - [Galeria zdjęć](https://www.facebook.com/pg/meetjspl/photos/?tab=album&album_id=1782957835111401)
 
-[skygate]: https://skygate.pl
+[skygate]: https://skygate.io
 [coderslab]: http://www.coderslab.pl
 [smsapi]: https://www.smsapi.com
 [helion]: http://helion.pl/

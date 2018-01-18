@@ -45,7 +45,7 @@ W ramach prezentacji buduję serwer GraphQL w node.js do obsługi grafu sieci sp
 
 - [Galeria zdjęć](https://www.facebook.com/media/set/?set=a.1561657073908146.1073741864.126046920802509&type=3)
 
-[skygate]: https://skygate.pl
+[skygate]: https://skygate.io
 [coderslab]: http://www.coderslab.pl
 [smsapi]: https://www.smsapi.com
 [helion]: http://helion.pl/

@@ -24,6 +24,7 @@ Dzięki wsparciu sponsorów możemy zapewnić naszym uczestnikom darmowy poczęs
 
 * [Skygate](https://skygate.io/)
 * [NBC](https://www.nbc.com.pl)
+* [314](https://314.tt)
 * [Helion](https://helion.pl/)
 * [JetBrains](https://www.jetbrains.com)
 * [Frontend Masters](https://frontendmasters.com)

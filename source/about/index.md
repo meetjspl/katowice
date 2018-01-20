@@ -18,7 +18,7 @@ Zapraszamy wszystkich uczestników i uczestniczki naszych wydarzeń do pomocy w 
 
 ## Katowice
 
-Spotkania meet.js Katowice są nieprzerwanie organizowane, zazwycaj co dwa miesiące, od 2013 roku. Obecnie w spotkaniach uczestniczy regularnie ok 120 osób, a chętnych jest czasami dwa razy wiecej. Niestety jesteśmy ograniczeni ilością dostępnego miejsca w [Strefie Centralnej](https://www.facebook.com/klubokawiarniaoswiecona/), która jest naszym miejscem spotkań.
+Spotkania meet.js Katowice są nieprzerwanie organizowane, zazwycaj co dwa miesiące, od 2013 roku. Obecnie w spotkaniach uczestniczy regularnie ok 120 osób, a chętnych jest czasami dwa razy wiecej. Niestety jesteśmy ograniczeni ilością dostępnego miejsca w [Strefie Centralnej][strefa-centralna], która jest naszym miejscem spotkań.
 
 Wstęp na spotkania jest darmowy, obowiązuje jednak rejestracja i okazanie przy wejściu biletu. Bez biletu również można przyjść, natomiast nie gwarantujemy miejsc siedzących.
 
@@ -28,32 +28,32 @@ Dzięki wsparciu sponsorów możemy zapewnić wam darmowy poczęstunek, różne 
 
 ### Aktualni (2018)
 
-* [Skygate](https://skygate.io/)
-* [NBC](https://www.nbc.com.pl)
-* [314](https://314.tt)
-* [Helion](https://helion.pl/)
-* [JetBrains](https://www.jetbrains.com)
-* [Frontend Masters](https://frontendmasters.com)
-* [sli.do](https://www.sli.do)
-* [Sketch](https://www.sketchapp.com)
+* [Skygate][skygate]
+* [NBC][nbc]
+* [314][314tt]
+* [Helion][helion]
+* [JetBrains][jetbrains]
+* [Frontend Masters][fmasters]
+* [sli.do][slido]
+* [Sketch][sketchapp]
 
 #### 2017
 
-* [SMSApi](https://www.smsapi.pl/)
-* [Skygate](https://skygate.io/)
-* [Coders Lab](https://coderslab.pl/)
-* [Helion](https://helion.pl/)
-* [JetBrains](https://www.jetbrains.com)
-* [sli.do](https://www.sli.do)
+* [SMSApi][smsapi]
+* [Skygate][skygate]
+* [Coders Lab][coderslab]
+* [Helion][helion]
+* [JetBrains][jetbrains]
+* [sli.do][slido]
 
 #### 2016
 
-* [Future Mind](https://www.futuremind.com/en/)
-* [SMSApi](https://www.smsapi.pl/)
-* [Coders Lab](https://coderslab.pl/)
-* [Helion](https://helion.pl/)
-* [Microsoft](https://www.microsoft.com/pl-pl/)
-* [JetBrains](https://www.jetbrains.com)
+* [Future Mind][futuremind]
+* [SMSApi][smsapi]
+* [Coders Lab][coderslab]
+* [Microsoft][microsoft]
+* [Helion][helion]
+* [JetBrains][jetbrains]
 
 ## Kontakt
 
@@ -69,4 +69,17 @@ lub za pomocą:
 * społeczności {% icon_link facebook https://www.facebook.com/meetjspl/ %} [Facebook](https://www.facebook.com/meetjspl/)
 * pod adresem {% icon_link envelope 'mailto:' email %} katowice@meetjs.pl
 
-[berlin-coc]: http://berlincodeofconduct.org/pl/
+[strefa-centralna]: https://www.facebook.com/klubokawiarniaoswiecona
+[berlin-coc]: http://berlincodeofconduct.org/pl
+[skygate]: https://skygate.io
+[nbc]: https://www.nbc.com.pl
+[314tt]: https://314.tt
+[smsapi]: https://www.smsapi.pl
+[coderslab]: https://coderslab.pl
+[futuremind]: https://www.futuremind.com
+[helion]: https://helion.pl
+[microsoft]: https://www.microsoft.com/pl-pl
+[jetbrains]: https://www.jetbrains.com
+[fmasters]: https://frontendmasters.com
+[slido]: https://www.sli.do
+[sketchapp]: https://www.sketchapp.com

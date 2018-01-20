@@ -41,7 +41,7 @@ Airqmon to mała aplikacja, która wyświetla na pasku menu informacje o aktualn
 
 [skygate]: https://skygate.io
 [nbc]: https://nbc.com.pl
-[314tt]: https://314.tt
+[314tt]: http://314.tt
 [helion]: http://helion.pl/
 [jetbrains]: https://www.jetbrains.com
 [sketch]: https://www.sketchapp.com

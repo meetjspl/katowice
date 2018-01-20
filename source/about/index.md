@@ -73,7 +73,7 @@ lub za pomocą:
 [berlin-coc]: http://berlincodeofconduct.org/pl
 [skygate]: https://skygate.io
 [nbc]: https://www.nbc.com.pl
-[314tt]: https://314.tt
+[314tt]: http://314.tt
 [smsapi]: https://www.smsapi.pl
 [coderslab]: https://coderslab.pl
 [futuremind]: https://www.futuremind.com

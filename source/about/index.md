@@ -10,6 +10,12 @@ meet.js to niekomercyjne spotkania JavaScript i Front-end typu meetup, organizow
 
 Na każdym meet.js można liczyć na kilka prelekcji na tematy związane z JavaScript i technologiami Front-end. Każda z nich trwa ok. 20-25 minut. Duży nacisk kładziemy na Q&A i networking. Prelegentami jesteśmy my sami - fani JavaScript i front-endu. Każdy może przemawiać na meet.js - wystarczy się zgłosić! Zabawa i cenne doświadczenie gwarantowane!
 
+### Kodeks postępowania
+
+Na naszych spotkania obowiązuje [Berliński Kodeks Postępowania][berlin-coc]. Nakreśla on zarówno nasze oczekiwania wobec wszystkich, którzy uczestniczą w naszej społeczności, jak i konsekwencje niedopuszczalnych zachowań.
+
+Zapraszamy wszystkich uczestników i uczestniczki naszych wydarzeń do pomocy w tworzeniu przeżyć, które będą bezpieczne i pozytywne dla każdego.
+
 ## Katowice
 
 Spotkania meet.js Katowice są nieprzerwanie organizowane w ok. 2-miesięcznych odstępach od 2013 roku. Obecnie w spotkaniach uczestniczy regularnie 100-120 osób, a chętnych jest nawet 2 razy wiecej. Niestety jesteśmy ograniczeni pojemnością [Strefy Centralnej](https://www.facebook.com/klubokawiarniaoswiecona/), która jest naszym miejscem spotkań.
@@ -62,3 +68,5 @@ lub za pomocą:
 * grupy {% icon_link meetup https://www.meetup.com/meet-js-Katowice/ %} [meetup.com](https://www.meetup.com/meet-js-Katowice/)
 * społeczności {% icon_link facebook https://www.facebook.com/meetjspl/ %} [Facebook](https://www.facebook.com/meetjspl/)
 * pod adresem {% icon_link envelope 'mailto:' email %} katowice@meetjs.pl
+
+[berlin-coc]: http://berlincodeofconduct.org/pl/

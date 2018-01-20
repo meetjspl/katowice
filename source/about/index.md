@@ -4,11 +4,11 @@ date: 2017-02-17 13:03:10
 ---
 # O spotkaniach
 
-meet.js to niekomercyjne spotkania JavaScript i Front-end typu meetup, organizowane przez społeczność dla społeczności w Poznaniu, Warszawie, Krakowie, Wrocławiu, Gdańsku, Katowicach, Łodzi, Szczecinie i Białymstoku, Lublinie, Bydgoszczy. Zero komercji, czysta wiedza. 
+meet.js to niekomercyjne spotkania JavaScript i front-end typu meetup, organizowane przez społeczność dla społeczności w wielu miastach w Polsce. Zero komercji, czysta wiedza. 
 
 ## Forma
 
-Na każdym meet.js można liczyć na kilka prelekcji na tematy związane z JavaScript i technologiami Front-end. Każda z nich trwa ok. 20-25 minut. Duży nacisk kładziemy na Q&A i networking. Prelegentami jesteśmy my sami - fani JavaScript i front-endu. Każdy może przemawiać na meet.js - wystarczy się zgłosić! Zabawa i cenne doświadczenie gwarantowane!
+Na każdym meet.js można liczyć na kilka prelekcji na tematy związane z JavaScript i technologiami front-end oraz back-end. Każda z nich trwa 20-40 minut. Duży nacisk kładziemy na pytania, dyskusje i networking. Prelegentami jesteśmy my sami - fani JavaScript i front-endu. Każdy może przemawiać na meet.js - wystarczy się zgłosić! Zabawa i cenne doświadczenie gwarantowane!
 
 ### Kodeks postępowania
 
@@ -18,13 +18,13 @@ Zapraszamy wszystkich uczestników i uczestniczki naszych wydarzeń do pomocy w 
 
 ## Katowice
 
-Spotkania meet.js Katowice są nieprzerwanie organizowane w ok. 2-miesięcznych odstępach od 2013 roku. Obecnie w spotkaniach uczestniczy regularnie 100-120 osób, a chętnych jest nawet 2 razy wiecej. Niestety jesteśmy ograniczeni pojemnością [Strefy Centralnej](https://www.facebook.com/klubokawiarniaoswiecona/), która jest naszym miejscem spotkań.
+Spotkania meet.js Katowice są nieprzerwanie organizowane, zazwycaj co dwa miesiące, od 2013 roku. Obecnie w spotkaniach uczestniczy regularnie ok 120 osób, a chętnych jest czasami dwa razy wiecej. Niestety jesteśmy ograniczeni ilością dostępnego miejsca w [Strefie Centralnej](https://www.facebook.com/klubokawiarniaoswiecona/), która jest naszym miejscem spotkań.
 
 Wstęp na spotkania jest darmowy, obowiązuje jednak rejestracja i okazanie przy wejściu biletu. Bez biletu również można przyjść, natomiast nie gwarantujemy miejsc siedzących.
 
 ## Sponsorzy
 
-Dzięki wsparciu sponsorów możemy zapewnić naszym uczestnikom darmowy poczęstunek, różne ciekawe gadżety oraz nagrody rzeczowe (m.in książki, kursy, licencje), zaprosić prelegentów z innych miast oraz zapewnić odpowiedni poziom organizacji i odbioru spotkań.
+Dzięki wsparciu sponsorów możemy zapewnić wam darmowy poczęstunek, różne ciekawe gadżety oraz nagrody rzeczowe (takie jak książki, kursy wideo lub licencje na oprogramowanie), zaprosić prelegentów z innych miast oraz zapewnić odpowiedni poziom organizacji i odbioru spotkań.
 
 ### Aktualni (2018)
 

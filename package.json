@@ -5,6 +5,9 @@
   "hexo": {
     "version": "3.4.4"
   },
+  "scripts": {
+    "develop": "hexo server"
+  },
   "dependencies": {
     "hexo": "^3.4.4",
     "hexo-generator-archive": "^0.1.5",

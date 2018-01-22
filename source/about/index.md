@@ -2,13 +2,14 @@
 title: 'O spotkaniach'
 date: 2017-02-17 13:03:10
 ---
+
 # O spotkaniach
 
-meet.js to niekomercyjne spotkania JavaScript i front-end typu meetup, organizowane przez społeczność dla społeczności w wielu miastach w Polsce. Zero komercji, czysta wiedza. 
+meet.js to niekomercyjne spotkania JavaScript i front-end typu meetup, organizowane przez społeczność dla społeczności w wielu miastach w Polsce. Zero komercji, czysta wiedza.
 
 ## Forma
 
-Na każdym meet.js można liczyć na kilka prelekcji na tematy związane z JavaScript i technologiami front-end oraz back-end. Każda z nich trwa 20-40 minut. Duży nacisk kładziemy na pytania, dyskusje i networking. Prelegentami jesteśmy my sami - fani JavaScript i front-endu. Każdy może przemawiać na meet.js - wystarczy się zgłosić! Zabawa i cenne doświadczenie gwarantowane!
+Na każdym meet.js można liczyć na kilka prelekcji na tematy związane z JavaScript i technologiami front-end oraz back-end. Każda z nich trwa 20-40 minut. Duży nacisk kładziemy na pytania, dyskusje i networking. Prelegentami jesteśmy my sami - fani JavaScript i front-endu. Każdy może przemawiać na meet.js - [wystarczy się zgłosić][cfp]! Zabawa i cenne doświadczenie gwarantowane!
 
 ### Kodeks postępowania
 
@@ -69,6 +70,7 @@ lub za pomocą:
 * społeczności {% icon_link facebook https://www.facebook.com/meetjspl/ %} [Facebook](https://www.facebook.com/meetjspl/)
 * pod adresem {% icon_link envelope 'mailto:' email %} katowice@meetjs.pl
 
+[cfp]: /2018/01/18/cfp-2018/
 [strefa-centralna]: https://www.facebook.com/klubokawiarniaoswiecona
 [berlin-coc]: http://berlincodeofconduct.org/pl
 [skygate]: https://skygate.io

@@ -33,6 +33,13 @@ Materiały: {% icon_link external-link http://bit.ly/2pbNK13 Slajdy %}
 * {% post_link meetjs-katowice-23 #23 %} (2017-02-15) - *Server side rendering w React*
 Materiały: {% icon_link external-link http://bit.ly/2lecwhb Slajdy %}
 
+## Andrzej Kopeć
+
+### Prezentacje
+
+* {% post_link meetjs-katowice-29 #29 %} (2018-01-24) - *Types in TypeScript.*
+Materiały: {% icon_link external-link http://bit.ly/2naUInT Slajdy %}
+
 ## Krzysztof Kornacki
 
 ### Prezentacje
@@ -76,3 +83,7 @@ Materiały: {% icon_link external-link http://bit.ly/2gNSmFP Slajdy %} {% icon_l
 
 * {% post_link meetjs-katowice-22 #22 %} (2016-11-30) - *Testowanie JavaScript, wprowadzenie.*
 Materiały: {% icon_link external-link http://bit.ly/2fSvSWu Slajdy %} {% icon_link youtube-play https://www.youtube.com/watch?v=fK1kryDN32M&list=PLMCOR-t1TNtciYJs-rgNsTwZGooXu58Rs&index=2 'Nagranie wideo' %}
+
+* {% post_link meetjs-katowice-29 #29 %} (2018-01-24) - *Co ma wspólnego TypeScript i Electron z jakością powietrza.*
+Materiały: {% icon_link external-link http://bit.ly/2DJtfDj Slajdy %} {% icon_link external-link http://bit.ly/2E8t3uU "Aplikacja Airqmon" %} {% icon_link external-link http://bit.ly/2GhsMXt "Kalkulator benzopirenu" %}
+

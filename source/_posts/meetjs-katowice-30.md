@@ -29,7 +29,9 @@ Szukamy osób, które chcą podzielić się ciekawymi informacjami z resztą wid
 ## Agenda
 
 1. Andrzej Mazur
-2. Patryk Budzyński
+2. {% talk 'Patryk Budzyński' 'Texture-less graphics' %}
+Texture-less graphics - czyli proceduralne malowanie grafiki bez tekstur, przy uzyciu shaderow GLSL. W jaki sposob przekuc proste operacje matematyczne w obrazy.
+{% endtalk %}
 
 ## Sponsorzy
 

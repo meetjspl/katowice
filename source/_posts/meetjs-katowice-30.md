@@ -8,6 +8,7 @@ event:
     geo: 50.253252,19.023677
   social_links:
     facebook: https://www.facebook.com/events/255043178368705/
+    meetup: https://www.meetup.com/meet-js-Katowice/events/247777334/
   tickets: https://www.eventbrite.com/e/meetjs-katowice-1e-gamedevjs-edition-tickets-43132331966
 date: 2018-02-13 18:27:14
 categories:

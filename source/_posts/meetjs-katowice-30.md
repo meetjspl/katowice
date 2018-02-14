@@ -28,7 +28,11 @@ Szukamy osób, które chcą podzielić się ciekawymi informacjami z resztą wid
 
 ## Agenda
 
-1. Andrzej Mazur
+1. {% talk 'Andrzej Mazur' 'Czego można się nauczyć na podstawie 800 gier stworzonych na konkurs?' %}
+Czy brałeś kiedyś udział w game jamie? Próbowałeś konkursów tworzenia gier? Czy miało to sens? Czego się nauczyłeś? Jak to wspominasz?
+
+Przeprowadzę Cię przez najciekawsze z 800 gier zgłoszonych do tej pory na konkurs js13kGames, który ogranicza pojedynczy projekt do 13 kilobajtów. Czy można na ich podstawie wyciągnąć ogólne wnioski na temat tego jak tworzyć gry, lub czego unikać? Przyjdźcie, a sami się o tym przekonacie.
+{% endtalk %}
 2. {% talk 'Patryk Budzyński' 'Texture-less graphics' %}
 Texture-less graphics - czyli proceduralne malowanie grafiki bez tekstur, przy uzyciu shaderow GLSL. W jaki sposob przekuc proste operacje matematyczne w obrazy.
 {% endtalk %}

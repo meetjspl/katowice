@@ -20,11 +20,18 @@ tags:
 ---
 ## Opis
 
-Razem z ekipą Gamedev.js mamy przyjemność was zaprosić na drugie spotkanie meet.js Katowice w tym roku, które odbędzie się 14 marca (środa) o godzinie 18:00 w Strefie Centralej. Możecie się spodziewać ciekawych prelekcji związanych z szeroko pojętym tworzeniem gier HTML5.
+Razem z ekipą [Gamedev.js][gamedevjs] mamy przyjemność was zaprosić na drugie spotkanie meet.js Katowice w tym roku, które odbędzie się **14 marca** (środa) o godzinie **18:00** w **Strefie Centralej**. Możecie się spodziewać ciekawych prelekcji związanych z szeroko pojętym tworzeniem gier HTML5.
 
-Spotkanie jest w pełni darmowe, przyjść może każdy, ale ze względu na ograniczoną ilość miejsc obowiązuje rejestracja. Darmowe bilety można uzyskać pod adresem na portalu Eventbrite.
+Jeśli chcesz przekazać uczestnikom spotkania jakieś informacje - wystąpić z krótkim przemówieniem i pokazać ciekawą technologię, skrytykować jakieś rozwiązanie, zaprezentować swój projekt lub poinformować o jakiejś inicjatywie, prosimy o [kontakt z organizatorami](/about/#Kontakt).
 
-Szukamy osób, które chcą podzielić się ciekawymi informacjami z resztą widowni. To może być relacja z zastosowania nowego narzędzia, ciekawy przypadek użycia jakiegoś frameworka lub biblioteki, a nawet krytyka powszechnie przyjętego rozwiązania. Chętnych prosimy o [kontakt z organizatorami](/about/#Kontakt).
+
+### Bilety
+
+Spotkanie jest w pełni darmowe, przyjść może każdy, ale ze względu na ograniczoną ilość miejsc obowiązuje **rejestracja**. Darmowe bilety można uzyskać pod adresem na portalu Eventbrite (link w nagłówku strony).
+
+### Zasady
+
+Na naszych spotkania obowiązuje [Berliński Kodeks Postępowania][berlin-coc]. Zapraszamy wszystkich uczestników i uczestniczki naszych wydarzeń do pomocy w tworzeniu przeżyć, które będą bezpieczne i pozytywne dla każdego.
 
 ## Agenda
 
@@ -41,6 +48,8 @@ Texture-less graphics - czyli proceduralne malowanie grafiki bez tekstur, przy u
 
 [{% img /images/sponsors/skygate.png 240 88 Skygate %}][skygate][{% img /images/sponsors/nbc.png 240 88 NBC %}][nbc][{% img /images/sponsors/314.png 240 88 314 %}][314tt][{% img /images/sponsors/helion.png 240 88 Helion %}][helion][{% img /images/sponsors/jetbrains.png 240 88 JetBrains %}][jetbrains][{% img /images/sponsors/sketch.png 240 88 Sketch %}][sketch][{% img /images/sponsors/frontendmasters.png 240 88 FrontendMasters %}][frontendmasters][{% img /images/sponsors/slido.png 240 88 sli.do %}][slido][{% img /images/sponsors/mozilla.png 240 88 Mozilla %}][mozilla]
 
+[berlin-coc]: http://berlincodeofconduct.org/pl
+
 [skygate]: https://skygate.io
 [nbc]: https://nbc.com.pl
 [314tt]: http://314.tt
@@ -49,4 +58,5 @@ Texture-less graphics - czyli proceduralne malowanie grafiki bez tekstur, przy u
 [sketch]: https://www.sketchapp.com
 [frontendmasters]: https://frontendmasters.com
 [slido]: https://www.sli.do
+[gamedevjs]: http://gamedevjs.com/
 [mozilla]: https://www.mozilla.org

@@ -39,7 +39,7 @@ Texture-less graphics - czyli proceduralne malowanie grafiki bez tekstur, przy u
 
 ## Sponsorzy
 
-[{% img /images/sponsors/skygate.png 240 88 Skygate %}][skygate][{% img /images/sponsors/nbc.png 240 88 NBC %}][nbc][{% img /images/sponsors/314.png 240 88 314 %}][314tt][{% img /images/sponsors/helion.png 240 88 Helion %}][helion][{% img /images/sponsors/jetbrains.png 240 88 JetBrains %}][jetbrains][{% img /images/sponsors/sketch.png 240 88 Sketch %}][sketch][{% img /images/sponsors/frontendmasters.png 240 88 FrontendMasters %}][frontendmasters][{% img /images/sponsors/slido.png 240 88 sli.do %}][slido]
+[{% img /images/sponsors/skygate.png 240 88 Skygate %}][skygate][{% img /images/sponsors/nbc.png 240 88 NBC %}][nbc][{% img /images/sponsors/314.png 240 88 314 %}][314tt][{% img /images/sponsors/helion.png 240 88 Helion %}][helion][{% img /images/sponsors/jetbrains.png 240 88 JetBrains %}][jetbrains][{% img /images/sponsors/sketch.png 240 88 Sketch %}][sketch][{% img /images/sponsors/frontendmasters.png 240 88 FrontendMasters %}][frontendmasters][{% img /images/sponsors/slido.png 240 88 sli.do %}][slido][{% img /images/sponsors/mozilla.png 240 88 Mozilla %}][mozilla]
 
 [skygate]: https://skygate.io
 [nbc]: https://nbc.com.pl
@@ -49,3 +49,4 @@ Texture-less graphics - czyli proceduralne malowanie grafiki bez tekstur, przy u
 [sketch]: https://www.sketchapp.com
 [frontendmasters]: https://frontendmasters.com
 [slido]: https://www.sli.do
+[mozilla]: https://www.mozilla.org

@@ -39,7 +39,8 @@ Na naszych spotkania obowiązuje [Berliński Kodeks Postępowania][berlin-coc]. 
 Wraz z rozwojem technologii rozwija się też i ta estetyczna część naszych aplikacji. Już dawno wyrośliśmy z jednorożców, migocących gwiazdek i brokatu straszącego ze screenów. Szukamy coraz doskonalszych i wygodniejszych narzędzi na umieszczanie elementów tam, gdzie byśmy chcieli przy okazji nie mnożąc niepotrzebnych bytów w kodzie i dysponując róznymi układami na różnych urządzeniach. Czy CSS Grid jest odpowiedzią na nasze potrzeby? I właściwie dlaczego nie zostać przy starym, dobrym Bootstrapie?
 {% endtalk %}
 2. {% talk 'Benedykt Dryl' 'Functional programming... actually functional' %}
-TBA
+Funkcjonalne wprowadzenie do programowania funkcjonalnego. Bez hejtu, matematyki i jednoznaczych opinii. Prezentacja będzie zawierać kontrowersyjne skróty myślowe.
+Jeśli jest to dla Ciebie poważny problem, zrezygnuj z dalszego słuchania... chociaż pewnie będziesz żałować, parafrazując “Historię bez cenzury”.
 {% endtalk %}
 
 ## Sponsorzy

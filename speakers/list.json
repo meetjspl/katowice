@@ -1,0 +1,207 @@
+[
+  {
+    "firstName": "Benedykt",
+    "lastName": "Dryl",
+    "urls": {
+      "github": "cypherq",
+      "twitter": "benedyktdryl"
+    },
+    "talks": [
+      {
+        "meetup": 24,
+        "date": "2017-04-12",
+        "title": "Performance !== Performance",
+        "urls": {
+          "slides": "http://bit.ly/2ouMhop"
+        }
+      }
+    ]
+  },
+  {
+    "firstName": "Jakub",
+    "lastName": "Elżbieciak",
+    "urls": {
+      "github": "jelz",
+      "twitter": "jelzbieciak",
+      "web": "https://elzbieciak.pl"
+    },
+    "talks": [
+      {
+        "meetup": 25,
+        "date": "2017-05-31",
+        "title": "Wstęp do GraphQL"
+      }
+    ]
+  },
+  {
+    "firstName": "Wojciech",
+    "lastName": "Gawroński",
+    "urls": {
+      "github": "afronski",
+      "twitter": "afronski",
+      "web": "http://afronski.pl"
+    },
+    "talks": [
+      {
+        "meetup": 23,
+        "date": "2017-02-15",
+        "title": "Functional Programming In The Wild",
+        "urls": {
+          "slides": "http://bit.ly/2pbNK13"
+        }
+      }
+    ]
+  },
+  {
+    "firstName": "Marcin",
+    "lastName": "Koba",
+    "talks": [
+      {
+        "meetup": 23,
+        "date": "2017-02-15",
+        "title": "Server side rendering w React",
+        "urls": {
+          "slides": "http://bit.ly/2lecwhb"
+        }
+      }
+    ]
+  },
+  {
+    "firstName": "Andrzej",
+    "lastName": "Kopeć",
+    "talks": [
+      {
+        "meetup": 29,
+        "date": "2018-01-24",
+        "title": "Types in TypeScript",
+        "urls": {
+          "slides": "http://bit.ly/2naUInT"
+        }
+      }
+    ]
+  },
+  {
+    "firstName": "Krzysztof",
+    "lastName": "Kornacki",
+    "talks": [
+      {
+        "meetup": 24,
+        "date": "2017-04-12",
+        "title": "Vue.js - Wprowadzenie",
+        "urls": {
+          "slides": "http://bit.ly/2oC4ZLd"
+        }
+      }
+    ]
+  },
+  {
+    "firstName": "Maciek",
+    "lastName": "Korsan",
+    "urls": {
+      "github": "maciejkorsan",
+      "twitter": "maciejkorsan"
+    },
+    "talks": [
+      {
+        "meetup": 26,
+        "date": "2017-10-18",
+        "title": "DISCO.JS",
+        "urls": {
+          "slides": "http://bit.ly/2gljNZr",
+          "code": "http://bit.ly/2zkiPnI"
+        }
+      }
+    ]
+  },
+  {
+    "firstName": "Staś",
+    "lastName": "Małolepszy",
+    "urls": {
+      "github": "stasm",
+      "twitter": "stas"
+    },
+    "talks": [
+      {
+        "meetup": 25,
+        "date": "2017-05-31",
+        "title": "Bot, cała historia!"
+      }
+    ]
+  },
+  {
+    "firstName": "Szymon",
+    "lastName": "Nowak",
+    "urls": {
+      "github": "szimek",
+      "twitter": "szimek"
+    },
+    "talks": [
+      {
+        "meetup": 22,
+        "date": "2016-11-30",
+        "title": "Dlaczego potrzebuję trzech bibliotek, aby uruchomić jeden test?",
+        "urls": {
+          "slides": "http://bit.ly/2gIQ8eD",
+          "video": "https://www.youtube.com/watch?v=ywlq9gyoX0I&list=PLMCOR-t1TNtciYJs-rgNsTwZGooXu58Rs&index=3"
+        }
+      },
+      {
+        "meetup": 28,
+        "date": "2017-12-20",
+        "title": "Gatsby",
+        "urls": {
+          "slides": "http://bit.ly/2p2M7H4"
+        }
+      }
+    ]
+  },
+  {
+    "firstName": "Jacek",
+    "lastName": "Rzeszutek",
+    "urls": {
+      "github": "grechut",
+      "twitter": "grechut"
+    },
+    "talks": [
+      {
+        "meetup": 22,
+        "date": "2016-11-30",
+        "title": "Jest Jest",
+        "urls": {
+          "slides": "http://bit.ly/2gNSmFP",
+          "code": "http://bit.ly/2gNU1uR",
+          "video": "https://www.youtube.com/watch?v=94Xbk2DA-SQ&list=PLMCOR-t1TNtciYJs-rgNsTwZGooXu58Rs&index=4"
+        }
+      }
+    ]
+  },
+  {
+    "firstName": "Jakub",
+    "lastName": "Synowiec",
+    "urls": {
+      "github": "jsynowiec",
+      "twitter": "jakubsynowiec",
+      "web": "https://jakubsynowiec.info"
+    },
+    "talks": [
+      {
+        "meetup": 22,
+        "date": "2016-11-30",
+        "title": "Testowanie JavaScript, wprowadzenie.",
+        "urls": {
+          "slides": "http://bit.ly/2fSvSWu",
+          "code": "http://bit.ly/2gNU1uR",
+          "video": "https://www.youtube.com/watch?v=fK1kryDN32M&list=PLMCOR-t1TNtciYJs-rgNsTwZGooXu58Rs&index=2"
+        }
+      },
+      {
+        "meetup": 29,
+        "date": "2018-01-24",
+        "title": "Co ma wspólnego TypeScript i Electron z jakością powietrza?",
+        "urls": {
+          "slides": "http://bit.ly/2DJtfDj"
+        }
+      }
+    ]
+  }
+]

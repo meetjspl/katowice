@@ -1,0 +1,82 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Speakers",
+  "description": "A list of speakers that spoke on our meetup",
+  "type": "array",
+  "items": {
+    "title": "Speaker",
+    "description": "A single speaker",
+    "type": "object",
+    "properties": {
+      "firstName": {
+        "description": "First name",
+        "type": "string"
+      },
+      "lastName": {
+        "description": "Last name",
+        "type": "string"
+      },
+      "urls": {
+        "description": "A dictionary of social sites profile names",
+        "type": "object",
+        "properties": {
+          "web": {
+            "type": "string"
+          },
+          "github": {
+            "type": "string"
+          },
+          "twitter": {
+            "type": "string"
+          }
+        }
+      },
+      "talks": {
+        "description": "A list of talks",
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "meetup": {
+              "description": "Number of meetup the talk was presented on",
+              "type": "integer",
+              "exclusiveMinimum": 0
+            },
+            "date": {
+              "description": "Date when the talk was presented",
+              "type": "string",
+              "format": "date"
+            },
+            "title": {
+              "description": "Title of the talk",
+              "type": "string"
+            },
+            "urls": {
+              "description": "A dictionary with links to reference materials",
+              "type": "object",
+              "properties": {
+                "slides": {
+                  "type": "string",
+                  "format": "uri"
+                },
+                "code": {
+                  "type": "string",
+                  "format": "uri"
+                },
+                "video": {
+                  "type": "string",
+                  "format": "uri"
+                }
+              }
+            }
+          },
+          "required": ["meetup", "date", "title"]
+        },
+        "minItems": 1,
+        "uniqueItems": true
+      }
+    },
+    "required": ["firstName", "lastName", "talks"]
+  },
+  "uniqueItems": true
+}

@@ -6,12 +6,14 @@
     "version": "3.7.1"
   },
   "scripts": {
+    "validate": "npx ajv -s speakers/list.schema.json -d speakers/list.json",
     "develop": "npx hexo server",
     "gen:pages": "npx hexo generate -f",
     "gen:pages:watch": "npx hexo generate -fw",
     "gen:speakers": "cd speakers && node generate.js"
   },
   "dependencies": {
+    "ajv-cli": "^3.0.0",
     "ejs": "^2.6.1",
     "hexo": "^3.7.1",
     "hexo-cli": "^1.1.0",

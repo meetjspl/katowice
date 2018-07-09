@@ -42,7 +42,9 @@ W prezentacji przedstawię ogólną ideę, założenia, jak i całościowy proce
 Oczywiście nie zabraknie porównań do najbardziej popularnych bibliotek/frameworków dostępnych na rynku w celu sprawdzenia jak Marble.js wypada na tle konkurencji.
 Zapewniam, że słowo „monada” nie pojawi się ani razu, ale za to „strumień” będzie lać się strumieniami.
 {% endtalk %}
-2. TBA
+2. {% talk 'Andrzej Kopeć' '"Bezbłędny" frontend z Elm %}
+TBA
+{% endtalk %}
 
 ## Sponsorzy
 

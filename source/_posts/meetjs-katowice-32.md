@@ -24,6 +24,7 @@ Mamy przyjemność was zaprosić na kolejne spotkanie meet.js Katowice w tym rok
 
 Jeśli chcesz przekazać uczestnikom spotkania jakieś informacje - wystąpić z krótkim przemówieniem i pokazać ciekawą technologię, skrytykować jakieś rozwiązanie, zaprezentować swój projekt lub poinformować o jakiejś inicjatywie, prosimy o [kontakt z organizatorami](/about/#Kontakt).
 
+Spotkanie i prezentacje w języku polskim.
 
 ### Bilety
 
@@ -43,7 +44,7 @@ Oczywiście nie zabraknie porównań do najbardziej popularnych bibliotek/framew
 Zapewniam, że słowo „monada” nie pojawi się ani razu, ale za to „strumień” będzie lać się strumieniami.
 {% endtalk %}
 2. {% talk 'Andrzej Kopeć' '"Bezbłędny" frontend z Elm %}
-TBA
+Elm jest czysto funkcyjnym językiem zaprojektowanym do pisania frontendu, o którym często się mówi, że nie pozwala skompilować kodu, który nie będzie działał poprawnie. W trakcie prezentacji pokażę, skąd się bierze to przekonanie o solidności oraz jak jest osiągnięta czysta funkcyjność języka. Na koniec odpowiem na pytanie, czy to jest tylko zabawka do projektów po godzinach, czy może jednak narzędzie, które może być użyte na produkcji.
 {% endtalk %}
 
 ## Sponsorzy

@@ -43,7 +43,7 @@ W prezentacji przedstawię ogólną ideę, założenia, jak i całościowy proce
 Oczywiście nie zabraknie porównań do najbardziej popularnych bibliotek/frameworków dostępnych na rynku w celu sprawdzenia jak Marble.js wypada na tle konkurencji.
 Zapewniam, że słowo „monada” nie pojawi się ani razu, ale za to „strumień” będzie lać się strumieniami.
 {% endtalk %}
-2. {% talk 'Andrzej Kopeć' '"Bezbłędny" frontend z Elm %}
+2. {% talk 'Andrzej Kopeć' '"Bezbłędny" frontend z Elm' %}
 Elm jest czysto funkcyjnym językiem zaprojektowanym do pisania frontendu, o którym często się mówi, że nie pozwala skompilować kodu, który nie będzie działał poprawnie. W trakcie prezentacji pokażę, skąd się bierze to przekonanie o solidności oraz jak jest osiągnięta czysta funkcyjność języka. Na koniec odpowiem na pytanie, czy to jest tylko zabawka do projektów po godzinach, czy może jednak narzędzie, które może być użyte na produkcji.
 {% endtalk %}
 

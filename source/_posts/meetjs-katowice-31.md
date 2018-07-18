@@ -1,7 +1,7 @@
 ---
 title: 'meet.js Katowice #31'
 event:
-  time: 2018-05-16 17:00:00
+  time: 2018-05-16 16:00:00
   place:
     name: 'Strefa Centralna Katowice'
     url: https://pl-pl.facebook.com/pages/Strefa-Centralna/1376006482624106

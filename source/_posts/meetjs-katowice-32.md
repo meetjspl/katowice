@@ -1,7 +1,7 @@
 ---
 title: 'meet.js Katowice #32'
 event:
-  time: 2018-07-18 17:00:00
+  time: 2018-07-18 16:00:00
   place:
     name: 'Strefa Centralna Katowice'
     url: https://pl-pl.facebook.com/pages/Strefa-Centralna/1376006482624106

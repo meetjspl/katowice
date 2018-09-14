@@ -137,6 +137,22 @@
     ]
   },
   {
+    "firstName": "Piotr",
+    "lastName": "Nalepa",
+    "urls": {
+      "github": "sunpietro",
+      "twitter": "sunpietro",
+      "web": "https://blog.piotrnalepa.pl/"
+    },
+    "talks": [
+      {
+        "meetup": 33,
+        "date": "2018-09-19",
+        "title": "Using ReactJS components without building any app - transitioning from old JS framework to ReactJS",
+      }
+    ]
+  },
+  {
     "firstName": "Szymon",
     "lastName": "Nowak",
     "urls": {
@@ -180,6 +196,20 @@
           "code": "http://bit.ly/2gNU1uR",
           "video": "https://www.youtube.com/watch?v=94Xbk2DA-SQ&list=PLMCOR-t1TNtciYJs-rgNsTwZGooXu58Rs&index=4"
         }
+      }
+    ]
+  },
+  {
+    "firstName": "Jakub",
+    "lastName": "Sikora",
+    "urls": {
+      "twitter": "jakubsikor"
+    },
+    "talks": [
+      {
+        "meetup": 33,
+        "date": "2018-09-19",
+        "title": "Jak uporządkować stan aplikacji i okiełznać jego asynchroniczność"
       }
     ]
   },

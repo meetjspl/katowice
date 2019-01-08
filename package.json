@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.7.1"
+    "version": "3.8.0"
   },
   "scripts": {
     "validate": "npx ajv -s speakers/list.schema.json -d speakers/list.json",
@@ -15,7 +15,7 @@
   "dependencies": {
     "ajv-cli": "^3.0.0",
     "ejs": "^2.6.1",
-    "hexo": "^3.7.1",
+    "hexo": "^3.8.0",
     "hexo-cli": "^1.1.0",
     "hexo-generator-archive": "^0.1.5",
     "hexo-generator-category": "^0.1.3",

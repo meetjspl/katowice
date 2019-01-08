@@ -1,6 +1,6 @@
 <span class="h1">Archiwum</span>
 <ul class="post-list">
-  <% page.posts.sort('date', 'desc').each(function(post) { %>
+  <% page.posts.each(function(post) { %>
     <li class="post-item">
       <% if (post.event) { %>
         <span class="post-meta event-details">
@@ -17,4 +17,17 @@
     </li>
   <% }); %>
 </ul>
-
+<nav>
+    <span class="pager">
+      <% if (page.prev){ %>
+        <a href="<%- config.root %><%- page.prev_link %>">Nowsze</a>
+      <% } else { %>
+        <span></span>
+      <% } %>
+      <% if (page.next){ %>
+        <a href="<%- config.root %><%- page.next_link %>">Starsze</a>
+      <% } else { %>
+        <span></span>
+      <% } %>
+    </span>
+</nav>

@@ -57,9 +57,12 @@ pagination_dir: page
 theme: meetjs-ktw
 
 archive_generator:
-  per_page: 10
+  enabled: true
+  per_page: 6
   yearly: true
-  monthly: true
+  monthly: false
+  daily: false
+  order_by: -date
 
 nav:
   Informacje: /

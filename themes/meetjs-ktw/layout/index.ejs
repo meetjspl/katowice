@@ -17,7 +17,7 @@
 <section id="writing">
   <span class="h1"><a href="<%- url_for("archives") %>">Ogłoszenia</a></span>
   <ul class="post-list">
-    <% site.posts.sort('date', 'desc').limit(theme.customize.post_count || 5).each(function(post, i){ %>
+    <% site.posts.sort('date', 'desc').limit(theme.customize.post_count).each(function(post, i){ %>
       <li class="post-item">
         <% if (post.event) { %>
           <span class="post-meta event-details">
@@ -34,4 +34,9 @@
       </li>
     <% }); %>
   </ul>
+  <% if (page.next){ %>
+  <span class="float-right">
+    <a href="<%- url_for('archives') %>">Archiwum</a>
+  </span>
+  <% } %>
 </section>

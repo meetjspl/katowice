@@ -4,7 +4,7 @@ customize:
     width: 130
     height: 50
     url: /images/logo.png
-  favicon: 
+  favicon:
     desktop:
       url: /images/favicon.png
     android:
@@ -14,7 +14,7 @@ customize:
   social_links:
     facebook: https://www.facebook.com/meetjspl/
     twitter: https://twitter.com/meetjs
-  post_count: 4
+  post_count: 3
   highlight: monokai
 
 # RSS

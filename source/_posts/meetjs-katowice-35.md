@@ -51,4 +51,15 @@ Podczas mojej prezancji pobawimy się na chwilę w “tych złych” i spróbuje
 Postaram się zaprezentować zarówno popularne metody ataków oraz takie, o których za dużo się nie mówi.
 {% endtalk %}
 
+## Sponsorzy
+
+[{% img /images/sponsors/skygate.png 240 88 Skygate %}][skygate][{% img /images/sponsors/clearcode.png 240 88 Clearcode %}][clearcode][{% img /images/sponsors/futuremind.png 240 88 FutureMind %}][futuremind][{% img /images/sponsors/helion.png 240 88 Helion %}][helion][{% img /images/sponsors/jetbrains.png 240 88 JetBrains %}][jetbrains][{% img /images/sponsors/wesbos.png 240 88 WesBos %}][wesbos]
+
+[skygate]: https://skygate.io
+[clearcode]: https://clearcode.cc/
+[futuremind]: https://www.futuremind.com/
+[helion]: https://helion.pl/
+[jetbrains]: https://www.jetbrains.com
+[wesbos]: https://wesbos.com/
+
 [berlin-coc]: http://berlincodeofconduct.org/pl

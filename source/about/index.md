@@ -70,7 +70,7 @@ lub za pomocą:
 * społeczności {% icon_link facebook https://www.facebook.com/meetjspl/ %} [Facebook](https://www.facebook.com/meetjspl/)
 * pod adresem {% icon_link envelope 'mailto:' email %} katowice@meetjs.pl
 
-[cfp]: /2018/01/18/cfp-2018/
+[cfp]: https://katowice.meetjs.pl/2019/01/12/cfp-2019/
 [strefa-centralna]: https://www.facebook.com/klubokawiarniaoswiecona
 [berlin-coc]: http://berlincodeofconduct.org/pl
 [skygate]: https://skygate.io

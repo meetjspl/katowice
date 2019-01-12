@@ -27,7 +27,16 @@ Wstęp na spotkania jest darmowy, obowiązuje jednak rejestracja i okazanie przy
 
 Dzięki wsparciu sponsorów możemy zapewnić wam darmowy poczęstunek, różne ciekawe gadżety oraz nagrody rzeczowe (takie jak książki, kursy wideo lub licencje na oprogramowanie), zaprosić prelegentów z innych miast oraz zapewnić odpowiedni poziom organizacji i odbioru spotkań.
 
-### Aktualni (2018)
+### Aktualni (2019)
+
+* [Skygate][skygate]
+* [Clearcode][clearcode]
+* [Future Mind][futuremind]
+* [Helion][helion]
+* [JetBrains][jetbrains]
+* [Wes Bos][wesbos]
+
+### 2018
 
 * [Skygate][skygate]
 * [NBC][nbc]
@@ -85,3 +94,5 @@ lub za pomocą:
 [fmasters]: https://frontendmasters.com
 [slido]: https://www.sli.do
 [sketchapp]: https://www.sketchapp.com
+[clearcode]: https://clearcode.cc
+[wesbos]: https://wesbos.com

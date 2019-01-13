@@ -186,6 +186,20 @@
     ]
   },
   {
+    "firstName": "Krzysztof",
+    "lastName": "Jendrzyca",
+    "talks": [
+      {
+        "meetup": 15,
+        "date": "2015-09-30",
+        "title": "Wprowadzenie do ES6",
+        "urls": {
+          "slides": "https://github.com/TheOneYouDontLike/talks/tree/master/2015/es2015"
+        }
+      }
+    ]
+  },
+  {
     "firstName": "Kamil",
     "lastName": "Karczmarczyk",
     "talks": [
@@ -225,6 +239,11 @@
     "firstName": "Andrzej",
     "lastName": "Kopeć",
     "talks": [
+      {
+        "meetup": 15,
+        "date": "2015-09-30",
+        "title": "TypeScript"
+      },
       {
         "meetup": 16,
         "date": "2015-11-04",
@@ -371,6 +390,11 @@
       "twitter": "szimek"
     },
     "talks": [
+      {
+        "meetup": 15,
+        "date": "2015-09-30",
+        "title": "var, let, const - o co chodzi i jakie są różnice"
+      },
       {
         "meetup": 18,
         "date": "2016-03-09",

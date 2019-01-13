@@ -56,6 +56,20 @@
     ]
   },
   {
+    "firstName": "Józef",
+    "lastName": "Flakus",
+    "talks": [
+      {
+        "meetup": 32,
+        "date": "2018-07-18",
+        "title": "Be reactive with Marble.js",
+        "urls": {
+          "slides": "http://bit.ly/2NZIdGJ"
+        }
+      }
+    ]
+  },
+  {
     "firstName": "Wojciech",
     "lastName": "Gawroński",
     "urls": {
@@ -112,6 +126,14 @@
         "title": "Types in TypeScript",
         "urls": {
           "slides": "http://bit.ly/2naUInT"
+        }
+      },
+      {
+        "meetup": 32,
+        "date": "2018-07-18",
+        "title": "Bezbłędny frontend z Elm",
+        "urls": {
+          "slides": "http://bit.ly/2v2z5tS"
         }
       }
     ]

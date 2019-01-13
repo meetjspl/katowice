@@ -158,6 +158,20 @@
     ]
   },
   {
+    "firstName": "Kamil",
+    "lastName": "Gałuszka",
+    "talks": [
+      {
+        "meetup": 16,
+        "date": "2015-11-04",
+        "title": "Functions and arrow functions",
+        "urls": {
+          "slides": "http://slides.com/kamilgaluszka/function-and-arrow-functions"
+        }
+      }
+    ]
+  },
+  {
     "firstName": "Agnieszka",
     "lastName": "Grabałowska",
     "talks": [
@@ -211,6 +225,11 @@
     "firstName": "Andrzej",
     "lastName": "Kopeć",
     "talks": [
+      {
+        "meetup": 16,
+        "date": "2015-11-04",
+        "title": "Wprowadzenie do Angular 2"
+      },
       {
         "meetup": 18,
         "date": "2016-03-09",
@@ -306,6 +325,20 @@
         "meetup": 30,
         "date": "2018-03-14",
         "title": "Czego można się nauczyć na podstawie 800 gier stworzonych na konkurs?"
+      }
+    ]
+  },
+  {
+    "firstName": "Agnieszka",
+    "lastName": "Matysek",
+    "talks": [
+      {
+        "meetup": 16,
+        "date": "2015-11-04",
+        "title": "Leaflet - wprowadzenie do obsługi map",
+        "urls": {
+          "slides": "http://womanonrails.github.io/presentation-leaflet"
+        }
       }
     ]
   },

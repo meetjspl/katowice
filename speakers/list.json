@@ -325,6 +325,17 @@
     ]
   },
   {
+    "firstName": "Eliza",
+    "lastName": "Krajewska",
+    "talks": [
+      {
+        "meetup": 13,
+        "date": "2015-04-10",
+        "title": "Framework Aurelia"
+      }
+    ]
+  },
+  {
     "firstName": "Staś",
     "lastName": "Małolepszy",
     "urls": {
@@ -507,6 +518,11 @@
     },
     "talks": [
       {
+        "meetup": 13,
+        "date": "2015-04-10",
+        "title": "JWT: Cookie-Free Authentication"
+      },
+      {
         "meetup": 17,
         "date": "2016-02-10",
         "title": "Parse Cloud Code"
@@ -542,6 +558,17 @@
         "urls": {
           "slides": "http://bit.ly/2Tj7xe3"
         }
+      }
+    ]
+  },
+  {
+    "firstName": "Ela",
+    "lastName": "Ustupska",
+    "talks": [
+      {
+        "meetup": 13,
+        "date": "2015-04-10",
+        "title": "Jak pisać maile, aby nas zrozumiano - 5 głównych problemów w komunikacji drogą elekroniczną okiem praktyka"
       }
     ]
   }

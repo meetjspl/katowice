@@ -75,6 +75,14 @@
         "urls": {
           "slides": "http://bit.ly/2DK4bfV"
         }
+      },
+      {
+        "meetup": 20,
+        "date": "2016-07-06",
+        "title": "Animowane pączki (case-study i trochę o DevTools)",
+        "urls": {
+          "slides": "http://bit.ly/29mSKYt"
+        }
       }
     ]
   },
@@ -151,6 +159,14 @@
         "title": "Kwiatki NPMa",
         "urls": {
           "slides": "http://bit.ly/2BChREe"
+        }
+      },
+      {
+        "meetup": 20,
+        "date": "2016-07-06",
+        "title": "Embedded JavaScript (IoT)",
+        "urls": {
+          "slides": "http://bit.ly/29ms8qh"
         }
       }
     ]

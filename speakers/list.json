@@ -125,6 +125,17 @@
     ]
   },
   {
+    "firstName": "Arek",
+    "lastName": "Flinik",
+    "talks": [
+      {
+        "meetup": 14,
+        "date": "2015-05-13",
+        "title": "immutable.js"
+      }
+    ]
+  },
+  {
     "firstName": "Wojciech",
     "lastName": "Gawroński",
     "urls": {
@@ -337,6 +348,20 @@
     ]
   },
   {
+    "firstName": "Krzysztof",
+    "lastName": "Maczyński",
+    "talks": [
+      {
+        "meetup": 14,
+        "date": "2015-05-13",
+        "title": "Szwajcarski scyzoryk do tekstu, czyli wyrażenia regularne - wprowadzenie",
+        "urls": {
+          "slides": ""
+        }
+      }
+    ]
+  },
+  {
     "firstName": "Andrzej",
     "lastName": "Mazur",
     "talks": [
@@ -390,6 +415,11 @@
       "twitter": "szimek"
     },
     "talks": [
+      {
+        "meetup": 14,
+        "date": "2015-05-13",
+        "title": "Sprawozdanie z Front-Trends 2015"
+      },
       {
         "meetup": 15,
         "date": "2015-09-30",

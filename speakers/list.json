@@ -69,19 +69,19 @@
     "lastName": "Dzwinel",
     "talks": [
       {
-        "meetup": 34,
-        "date": "2018-11-14",
-        "title": "Fingerprinting",
-        "urls": {
-          "slides": "http://bit.ly/2DK4bfV"
-        }
-      },
-      {
         "meetup": 20,
         "date": "2016-07-06",
         "title": "Animowane pączki (case-study i trochę o DevTools)",
         "urls": {
           "slides": "http://bit.ly/29mSKYt"
+        }
+      },
+      {
+        "meetup": 34,
+        "date": "2018-11-14",
+        "title": "Fingerprinting",
+        "urls": {
+          "slides": "http://bit.ly/2DK4bfV"
         }
       }
     ]
@@ -136,6 +136,20 @@
     ]
   },
   {
+    "firstName": "Marcin",
+    "lastName": "Gajda",
+    "talks": [
+      {
+        "meetup": 19,
+        "date": "2016-05-11",
+        "title": "Webpack - czym jest i dlaczego chcesz go używać",
+        "urls": {
+          "slides": "http://bit.ly/1XbEV3B"
+        }
+      }
+    ]
+  },
+  {
     "firstName": "Agnieszka",
     "lastName": "Grabałowska",
     "talks": [
@@ -154,19 +168,19 @@
     "lastName": "Karczmarczyk",
     "talks": [
       {
-        "meetup": 27,
-        "date": "2017-11-29",
-        "title": "Kwiatki NPMa",
-        "urls": {
-          "slides": "http://bit.ly/2BChREe"
-        }
-      },
-      {
         "meetup": 20,
         "date": "2016-07-06",
         "title": "Embedded JavaScript (IoT)",
         "urls": {
           "slides": "http://bit.ly/29ms8qh"
+        }
+      },
+      {
+        "meetup": 27,
+        "date": "2017-11-29",
+        "title": "Kwiatki NPMa",
+        "urls": {
+          "slides": "http://bit.ly/2BChREe"
         }
       }
     ]
@@ -257,6 +271,14 @@
     },
     "talks": [
       {
+        "meetup": 19,
+        "date": "2016-05-11",
+        "title": "Na co mi ten ECMAScript?",
+        "urls": {
+          "slides": "http://bit.ly/1YsUkuW"
+        }
+      },
+      {
         "meetup": 25,
         "date": "2017-05-31",
         "title": "Bot, cała historia!"
@@ -313,6 +335,20 @@
         "title": "Gatsby",
         "urls": {
           "slides": "http://bit.ly/2p2M7H4"
+        }
+      }
+    ]
+  },
+  {
+    "firstName": "Radosław",
+    "lastName": "Rosłaniec",
+    "talks": [
+      {
+        "meetup": 19,
+        "date": "2016-05-11",
+        "title": "Od zera do bohatera - wyboista ścieżka mocy - case study o2.pl",
+        "urls": {
+          "slides": "http://bit.ly/1Oz6TPL"
         }
       }
     ]

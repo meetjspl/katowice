@@ -96,6 +96,14 @@
     },
     "talks": [
       {
+        "meetup": 12,
+        "date": "2015-02-11",
+        "title": "Amazon Lambda - JavaScript w chmurze na milisekundy",
+        "urls": {
+          "slides": "https://github.com/jelz/awsletter"
+        }
+      },
+      {
         "meetup": 17,
         "date": "2016-02-10",
         "title": "NW.js livecoding",
@@ -144,6 +152,14 @@
       "web": "http://afronski.pl"
     },
     "talks": [
+      {
+        "meetup": 12,
+        "date": "2015-02-11",
+        "title": "Wprowadzenie do ClojureScript oraz Om",
+        "urls": {
+          "slides": "http://goo.gl/k2evGf"
+        }
+      },
       {
         "meetup": 23,
         "date": "2017-02-15",

@@ -96,6 +96,11 @@
     },
     "talks": [
       {
+        "meetup": 11,
+        "date": "2014-11-12",
+        "title": "600 milionów px^2, 60 FPS"
+      },
+      {
         "meetup": 12,
         "date": "2015-02-11",
         "title": "Amazon Lambda - JavaScript w chmurze na milisekundy",
@@ -443,6 +448,11 @@
     },
     "talks": [
       {
+        "meetup": 11,
+        "date": "2014-11-12",
+        "title": "Ember CLI - jak zacząć swoją przygodę z Emberem"
+      },
+      {
         "meetup": 14,
         "date": "2015-05-13",
         "title": "Sprawozdanie z Front-Trends 2015"
@@ -498,6 +508,11 @@
       "twitter": "grechut"
     },
     "talks": [
+      {
+        "meetup": 11,
+        "date": "2014-11-12",
+        "title": "Wprowadzenie do React"
+      },
       {
         "meetup": 22,
         "date": "2016-11-30",

@@ -204,6 +204,11 @@
     "lastName": "Kopeć",
     "talks": [
       {
+        "meetup": 18,
+        "date": "2016-03-09",
+        "title": "Wprowadzenie do RxJS"
+      },
+      {
         "meetup": 29,
         "date": "2018-01-24",
         "title": "Types in TypeScript",
@@ -320,6 +325,11 @@
       "twitter": "szimek"
     },
     "talks": [
+      {
+        "meetup": 18,
+        "date": "2016-03-09",
+        "title": "ES6 Promise 101"
+      },
       {
         "meetup": 22,
         "date": "2016-11-30",

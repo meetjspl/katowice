@@ -11,6 +11,20 @@
     ]
   },
   {
+    "firstName": "Michał",
+    "lastName": "Czyż",
+    "talks": [
+      {
+        "meetup": 27,
+        "date": "2017-11-29",
+        "title": "Ember.js obecnie oraz plany na przyszłość",
+        "urls": {
+          "slides": "http://bit.ly/2AYYXLx"
+        }
+      }
+    ]
+  },
+  {
     "firstName": "Benedykt",
     "lastName": "Dryl",
     "urls": {
@@ -109,6 +123,20 @@
         "title": "Dlaczego CSS Grid jest lepszy?",
         "urls": {
           "slides": "http://bit.ly/2wQpd9L"
+        }
+      }
+    ]
+  },
+  {
+    "firstName": "Kamil",
+    "lastName": "Karczmarczyk",
+    "talks": [
+      {
+        "meetup": 27,
+        "date": "2017-11-29",
+        "title": "Kwiatki NPMa",
+        "urls": {
+          "slides": "http://bit.ly/2BChREe"
         }
       }
     ]

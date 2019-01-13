@@ -61,6 +61,20 @@
     ]
   },
   {
+    "firstName": "Agnieszka",
+    "lastName": "Grabałowska",
+    "talks": [
+      {
+        "meetup": 31,
+        "date": "2018-05-16",
+        "title": "Dlaczego CSS Grid jest lepszy?",
+        "urls": {
+          "slides": "http://bit.ly/2wQpd9L"
+        }
+      }
+    ]
+  },
+  {
     "firstName": "Marcin",
     "lastName": "Koba",
     "talks": [
@@ -238,20 +252,6 @@
         "title": "Co ma wspólnego TypeScript i Electron z jakością powietrza?",
         "urls": {
           "slides": "http://bit.ly/2DJtfDj"
-        }
-      }
-    ]
-  },
-  {
-    "firstName": "Agnieszka",
-    "lastName": "Grabałowska",
-    "talks": [
-      {
-        "meetup": 31,
-        "date": "2018-05-16",
-        "title": "Dlaczego CSS Grid jest lepszy?",
-        "urls": {
-          "slides": "http://bit.ly/2wQpd9L"
         }
       }
     ]

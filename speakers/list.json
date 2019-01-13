@@ -96,6 +96,14 @@
     },
     "talks": [
       {
+        "meetup": 17,
+        "date": "2016-02-10",
+        "title": "NW.js livecoding",
+        "urls": {
+          "slides": "https://github.com/jelz/nw-commander"
+        }
+      },
+      {
         "meetup": 25,
         "date": "2017-05-31",
         "title": "Wstęp do GraphQL"
@@ -311,6 +319,11 @@
     },
     "talks": [
       {
+        "meetup": 17,
+        "date": "2016-02-10",
+        "title": "Jak testować czysty kod JavaScript? Kilka słów o tym jak ułatwić sobie pracę\" (podstawy JS)"
+      },
+      {
         "meetup": 33,
         "date": "2018-09-19",
         "title": "Using ReactJS components without building any app - transitioning from old JS framework to ReactJS"
@@ -406,6 +419,11 @@
       "web": "https://jakubsynowiec.info"
     },
     "talks": [
+      {
+        "meetup": 17,
+        "date": "2016-02-10",
+        "title": "Parse Cloud Code"
+      },
       {
         "meetup": 22,
         "date": "2016-11-30",

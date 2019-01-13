@@ -1,5 +1,16 @@
 [
   {
+    "firstName": "Patryk",
+    "lastName": "Budzyński",
+    "talks": [
+      {
+        "meetup": 30,
+        "date": "2018-03-14",
+        "title": "Texture-less graphics"
+      }
+    ]
+  },
+  {
     "firstName": "Benedykt",
     "lastName": "Dryl",
     "urls": {
@@ -183,6 +194,17 @@
         "meetup": 25,
         "date": "2017-05-31",
         "title": "Bot, cała historia!"
+      }
+    ]
+  },
+  {
+    "firstName": "Andrzej",
+    "lastName": "Mazur",
+    "talks": [
+      {
+        "meetup": 30,
+        "date": "2018-03-14",
+        "title": "Czego można się nauczyć na podstawie 800 gier stworzonych na konkurs?"
       }
     ]
   },

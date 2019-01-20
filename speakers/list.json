@@ -1,5 +1,44 @@
 [
   {
+    "firstName": "Piotr",
+    "lastName": "Borysowski",
+    "talks": [
+      {
+        "meetup": 21,
+        "date": "2016-09-28",
+        "title": "Prototypowanie z React",
+        "urls": {
+          "slides": "http://bit.ly/2dJxEJD"
+        }
+      }
+    ]
+  },
+  {
+    "firstName": "Patryk",
+    "lastName": "Budzyński",
+    "talks": [
+      {
+        "meetup": 30,
+        "date": "2018-03-14",
+        "title": "Texture-less graphics"
+      }
+    ]
+  },
+  {
+    "firstName": "Michał",
+    "lastName": "Czyż",
+    "talks": [
+      {
+        "meetup": 27,
+        "date": "2017-11-29",
+        "title": "Ember.js obecnie oraz plany na przyszłość",
+        "urls": {
+          "slides": "http://bit.ly/2AYYXLx"
+        }
+      }
+    ]
+  },
+  {
     "firstName": "Benedykt",
     "lastName": "Dryl",
     "urls": {
@@ -26,6 +65,28 @@
     ]
   },
   {
+    "firstName": "Konrad",
+    "lastName": "Dzwinel",
+    "talks": [
+      {
+        "meetup": 20,
+        "date": "2016-07-06",
+        "title": "Animowane pączki (case-study i trochę o DevTools)",
+        "urls": {
+          "slides": "http://bit.ly/29mSKYt"
+        }
+      },
+      {
+        "meetup": 34,
+        "date": "2018-11-14",
+        "title": "Fingerprinting",
+        "urls": {
+          "slides": "http://bit.ly/2DK4bfV"
+        }
+      }
+    ]
+  },
+  {
     "firstName": "Jakub",
     "lastName": "Elżbieciak",
     "urls": {
@@ -35,9 +96,55 @@
     },
     "talks": [
       {
+        "meetup": 11,
+        "date": "2014-11-12",
+        "title": "600 milionów px^2, 60 FPS"
+      },
+      {
+        "meetup": 12,
+        "date": "2015-02-11",
+        "title": "Amazon Lambda - JavaScript w chmurze na milisekundy",
+        "urls": {
+          "slides": "https://github.com/jelz/awsletter"
+        }
+      },
+      {
+        "meetup": 17,
+        "date": "2016-02-10",
+        "title": "NW.js livecoding",
+        "urls": {
+          "slides": "https://github.com/jelz/nw-commander"
+        }
+      },
+      {
         "meetup": 25,
         "date": "2017-05-31",
         "title": "Wstęp do GraphQL"
+      }
+    ]
+  },
+  {
+    "firstName": "Józef",
+    "lastName": "Flakus",
+    "talks": [
+      {
+        "meetup": 32,
+        "date": "2018-07-18",
+        "title": "Be reactive with Marble.js",
+        "urls": {
+          "slides": "http://bit.ly/2NZIdGJ"
+        }
+      }
+    ]
+  },
+  {
+    "firstName": "Arek",
+    "lastName": "Flinik",
+    "talks": [
+      {
+        "meetup": 14,
+        "date": "2015-05-13",
+        "title": "immutable.js"
       }
     ]
   },
@@ -51,11 +158,97 @@
     },
     "talks": [
       {
+        "meetup": 12,
+        "date": "2015-02-11",
+        "title": "Wprowadzenie do ClojureScript oraz Om",
+        "urls": {
+          "slides": "http://goo.gl/k2evGf"
+        }
+      },
+      {
         "meetup": 23,
         "date": "2017-02-15",
         "title": "Functional Programming In The Wild",
         "urls": {
           "slides": "http://bit.ly/2pbNK13"
+        }
+      }
+    ]
+  },
+  {
+    "firstName": "Marcin",
+    "lastName": "Gajda",
+    "talks": [
+      {
+        "meetup": 19,
+        "date": "2016-05-11",
+        "title": "Webpack - czym jest i dlaczego chcesz go używać",
+        "urls": {
+          "slides": "http://bit.ly/1XbEV3B"
+        }
+      }
+    ]
+  },
+  {
+    "firstName": "Kamil",
+    "lastName": "Gałuszka",
+    "talks": [
+      {
+        "meetup": 16,
+        "date": "2015-11-04",
+        "title": "Functions and arrow functions",
+        "urls": {
+          "slides": "http://slides.com/kamilgaluszka/function-and-arrow-functions"
+        }
+      }
+    ]
+  },
+  {
+    "firstName": "Agnieszka",
+    "lastName": "Grabałowska",
+    "talks": [
+      {
+        "meetup": 31,
+        "date": "2018-05-16",
+        "title": "Dlaczego CSS Grid jest lepszy?",
+        "urls": {
+          "slides": "http://bit.ly/2wQpd9L"
+        }
+      }
+    ]
+  },
+  {
+    "firstName": "Krzysztof",
+    "lastName": "Jendrzyca",
+    "talks": [
+      {
+        "meetup": 15,
+        "date": "2015-09-30",
+        "title": "Wprowadzenie do ES6",
+        "urls": {
+          "slides": "https://github.com/TheOneYouDontLike/talks/tree/master/2015/es2015"
+        }
+      }
+    ]
+  },
+  {
+    "firstName": "Kamil",
+    "lastName": "Karczmarczyk",
+    "talks": [
+      {
+        "meetup": 20,
+        "date": "2016-07-06",
+        "title": "Embedded JavaScript (IoT)",
+        "urls": {
+          "slides": "http://bit.ly/29ms8qh"
+        }
+      },
+      {
+        "meetup": 27,
+        "date": "2017-11-29",
+        "title": "Kwiatki NPMa",
+        "urls": {
+          "slides": "http://bit.ly/2BChREe"
         }
       }
     ]
@@ -79,11 +272,42 @@
     "lastName": "Kopeć",
     "talks": [
       {
+        "meetup": 15,
+        "date": "2015-09-30",
+        "title": "TypeScript"
+      },
+      {
+        "meetup": 16,
+        "date": "2015-11-04",
+        "title": "Wprowadzenie do Angular 2"
+      },
+      {
+        "meetup": 18,
+        "date": "2016-03-09",
+        "title": "Wprowadzenie do RxJS"
+      },
+      {
         "meetup": 29,
         "date": "2018-01-24",
         "title": "Types in TypeScript",
         "urls": {
           "slides": "http://bit.ly/2naUInT"
+        }
+      },
+      {
+        "meetup": 32,
+        "date": "2018-07-18",
+        "title": "Bezbłędny frontend z Elm",
+        "urls": {
+          "slides": "http://bit.ly/2v2z5tS"
+        }
+      },
+      {
+        "meetup": 21,
+        "date": "2016-09-28",
+        "title": "O SOLIDnej architekturze aplikacji webowych",
+        "urls": {
+          "slides": "http://bit.ly/2dw8Ypb"
         }
       }
     ]
@@ -122,6 +346,17 @@
     ]
   },
   {
+    "firstName": "Eliza",
+    "lastName": "Krajewska",
+    "talks": [
+      {
+        "meetup": 13,
+        "date": "2015-04-10",
+        "title": "Framework Aurelia"
+      }
+    ]
+  },
+  {
     "firstName": "Staś",
     "lastName": "Małolepszy",
     "urls": {
@@ -130,9 +365,56 @@
     },
     "talks": [
       {
+        "meetup": 19,
+        "date": "2016-05-11",
+        "title": "Na co mi ten ECMAScript?",
+        "urls": {
+          "slides": "http://bit.ly/1YsUkuW"
+        }
+      },
+      {
         "meetup": 25,
         "date": "2017-05-31",
         "title": "Bot, cała historia!"
+      }
+    ]
+  },
+  {
+    "firstName": "Krzysztof",
+    "lastName": "Maczyński",
+    "talks": [
+      {
+        "meetup": 14,
+        "date": "2015-05-13",
+        "title": "Szwajcarski scyzoryk do tekstu, czyli wyrażenia regularne - wprowadzenie",
+        "urls": {
+          "slides": ""
+        }
+      }
+    ]
+  },
+  {
+    "firstName": "Andrzej",
+    "lastName": "Mazur",
+    "talks": [
+      {
+        "meetup": 30,
+        "date": "2018-03-14",
+        "title": "Czego można się nauczyć na podstawie 800 gier stworzonych na konkurs?"
+      }
+    ]
+  },
+  {
+    "firstName": "Agnieszka",
+    "lastName": "Matysek",
+    "talks": [
+      {
+        "meetup": 16,
+        "date": "2015-11-04",
+        "title": "Leaflet - wprowadzenie do obsługi map",
+        "urls": {
+          "slides": "http://womanonrails.github.io/presentation-leaflet"
+        }
       }
     ]
   },
@@ -145,6 +427,11 @@
       "web": "https://blog.piotrnalepa.pl/"
     },
     "talks": [
+      {
+        "meetup": 17,
+        "date": "2016-02-10",
+        "title": "Jak testować czysty kod JavaScript? Kilka słów o tym jak ułatwić sobie pracę\" (podstawy JS)"
+      },
       {
         "meetup": 33,
         "date": "2018-09-19",
@@ -160,6 +447,26 @@
       "twitter": "szimek"
     },
     "talks": [
+      {
+        "meetup": 11,
+        "date": "2014-11-12",
+        "title": "Ember CLI - jak zacząć swoją przygodę z Emberem"
+      },
+      {
+        "meetup": 14,
+        "date": "2015-05-13",
+        "title": "Sprawozdanie z Front-Trends 2015"
+      },
+      {
+        "meetup": 15,
+        "date": "2015-09-30",
+        "title": "var, let, const - o co chodzi i jakie są różnice"
+      },
+      {
+        "meetup": 18,
+        "date": "2016-03-09",
+        "title": "ES6 Promise 101"
+      },
       {
         "meetup": 22,
         "date": "2016-11-30",
@@ -180,6 +487,20 @@
     ]
   },
   {
+    "firstName": "Radosław",
+    "lastName": "Rosłaniec",
+    "talks": [
+      {
+        "meetup": 19,
+        "date": "2016-05-11",
+        "title": "Od zera do bohatera - wyboista ścieżka mocy - case study o2.pl",
+        "urls": {
+          "slides": "http://bit.ly/1Oz6TPL"
+        }
+      }
+    ]
+  },
+  {
     "firstName": "Jacek",
     "lastName": "Rzeszutek",
     "urls": {
@@ -187,6 +508,11 @@
       "twitter": "grechut"
     },
     "talks": [
+      {
+        "meetup": 11,
+        "date": "2014-11-12",
+        "title": "Wprowadzenie do React"
+      },
       {
         "meetup": 22,
         "date": "2016-11-30",
@@ -223,6 +549,16 @@
     },
     "talks": [
       {
+        "meetup": 13,
+        "date": "2015-04-10",
+        "title": "JWT: Cookie-Free Authentication"
+      },
+      {
+        "meetup": 17,
+        "date": "2016-02-10",
+        "title": "Parse Cloud Code"
+      },
+      {
         "meetup": 22,
         "date": "2016-11-30",
         "title": "Testowanie JavaScript, wprowadzenie.",
@@ -243,16 +579,27 @@
     ]
   },
   {
-    "firstName": "Agnieszka",
-    "lastName": "Grabałowska",
+    "firstName": "Kamil",
+    "lastName": "Szymański",
     "talks": [
       {
-        "meetup": 31,
-        "date": "2018-05-16",
-        "title": "Dlaczego CSS Grid jest lepszy?",
+        "meetup": 34,
+        "date": "2018-11-14",
+        "title": "Zmierzch ery Promis-ów - RxJs w praktyce",
         "urls": {
-          "slides": "http://bit.ly/2wQpd9L"
+          "slides": "http://bit.ly/2Tj7xe3"
         }
+      }
+    ]
+  },
+  {
+    "firstName": "Ela",
+    "lastName": "Ustupska",
+    "talks": [
+      {
+        "meetup": 13,
+        "date": "2015-04-10",
+        "title": "Jak pisać maile, aby nas zrozumiano - 5 głównych problemów w komunikacji drogą elekroniczną okiem praktyka"
       }
     ]
   }

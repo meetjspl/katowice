@@ -6,6 +6,7 @@ event:
     name: 'Strefa Centralna Katowice'
     url: https://pl-pl.facebook.com/pages/Strefa-Centralna/1376006482624106
     geo: 50.253252,19.023677
+  tickets: https://www.eventbrite.com/e/meetjs-katowice-36-tickets-57993890287
 date: 2019-03-04 14:48:12
 categories:
   - 'Spotkanie'

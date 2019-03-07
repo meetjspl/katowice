@@ -38,8 +38,8 @@ Na naszych spotkania obowiązuje [Berliński Kodeks Postępowania][berlin-coc]. 
 1. {% talk 'Joanna Lamch' 'WebAssembly? Po co to komu skoro jest JS' %}
 ebAssembly? Coś słyszałem. Niektórzy mówią że to będzie "the next big thing", zmiana jak piszemy aplikacje webowe. Ale czy na pewno? Co to webassembly, jak działa? Czy JavaScript zostanie zastąpiony przez inne języki? Jak zamieniają się przeglądarki aby nadążyć za zmianą.
 {% endtalk %}
-2. {% talk 'Józef Piecyk' 'Podstawy GraphQL (tytuł roboczy)' %}
-Opis w przygotowaniu.
+2. {% talk 'Józef Piecyk' 'Wstęp do GraphQL' %}
+Według wyników State of JavaScript 2018, GraphQL i Apollo są technologiami o największym poziomie zadowolenia z użytkowania oraz największą ilością osób zainteresowanych ich poznaniem. W prezentacji postaram się przybliżyć jak działają i dlaczego cieszą się tak dużym zainteresowaniem.
 {% endtalk %}
 
 ## Sponsorzy

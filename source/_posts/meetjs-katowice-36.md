@@ -6,6 +6,8 @@ event:
     name: 'Strefa Centralna Katowice'
     url: https://pl-pl.facebook.com/pages/Strefa-Centralna/1376006482624106
     geo: 50.253252,19.023677
+  social_links:
+    facebook: https://www.facebook.com/events/1946301858801789
   tickets: https://www.eventbrite.com/e/meetjs-katowice-36-tickets-57993890287
 date: 2019-03-04 14:48:12
 categories:
@@ -33,7 +35,12 @@ Na naszych spotkania obowiązuje [Berliński Kodeks Postępowania][berlin-coc]. 
 
 ## Agenda
 
-W przygotowaniu.
+1. {% talk 'Joanna Lamch' 'WebAssembly? Po co to komu skoro jest JS' %}
+ebAssembly? Coś słyszałem. Niektórzy mówią że to będzie "the next big thing", zmiana jak piszemy aplikacje webowe. Ale czy na pewno? Co to webassembly, jak działa? Czy JavaScript zostanie zastąpiony przez inne języki? Jak zamieniają się przeglądarki aby nadążyć za zmianą.
+{% endtalk %}
+2. {% talk 'Józef Piecyk' 'Podstawy GraphQL (tytuł roboczy)' %}
+Opis w przygotowaniu.
+{% endtalk %}
 
 ## Sponsorzy
 

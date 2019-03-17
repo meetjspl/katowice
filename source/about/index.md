@@ -29,7 +29,7 @@ Dzięki wsparciu sponsorów możemy zapewnić wam darmowy poczęstunek, różne 
 
 ### Aktualni (2019)
 
-* [Skygate][skygate]
+* [skygate][skygate]
 * [Clearcode][clearcode]
 * [Future Mind][futuremind]
 * [Helion][helion]
@@ -38,7 +38,7 @@ Dzięki wsparciu sponsorów możemy zapewnić wam darmowy poczęstunek, różne 
 
 ### 2018
 
-* [Skygate][skygate]
+* [skygate][skygate]
 * [NBC][nbc]
 * [314][314tt]
 * [Helion][helion]
@@ -50,7 +50,7 @@ Dzięki wsparciu sponsorów możemy zapewnić wam darmowy poczęstunek, różne 
 #### 2017
 
 * [SMSApi][smsapi]
-* [Skygate][skygate]
+* [skygate][skygate]
 * [Coders Lab][coderslab]
 * [Helion][helion]
 * [JetBrains][jetbrains]

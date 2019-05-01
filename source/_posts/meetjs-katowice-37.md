@@ -44,7 +44,7 @@ Aktualnie tworząc frontend aplikacji internetowych jesteśmy skazani na to co u
 
 ## Sponsorzy
 
-[{% img /images/sponsors/skygate.png 240 88 Skygate %}][skygate][{% img /images/sponsors/clearcode.png 240 88 Clearcode %}][clearcode][{% img /images/sponsors/futuremind.png 240 88 FutureMind %}][futuremind][{% img /images/sponsors/helion.png 240 88 Helion %}][helion][{% img /images/sponsors/jetbrains.png 240 88 JetBrains %}][jetbrains][{% img /images/sponsors/wesbos.png 240 88 WesBos %}][wesbos]
+[{% img /images/sponsors/clearcode.png 240 88 Clearcode %}][clearcode][{% img /images/sponsors/futuremind.png 240 88 FutureMind %}][futuremind][{% img /images/sponsors/skygate.png 240 88 Skygate %}][skygate][{% img /images/sponsors/helion.png 240 88 Helion %}][helion][{% img /images/sponsors/jetbrains.png 240 88 JetBrains %}][jetbrains][{% img /images/sponsors/wesbos.png 240 88 WesBos %}][wesbos]
 
 [skygate]: https://skygate.io
 [clearcode]: https://clearcode.cc/

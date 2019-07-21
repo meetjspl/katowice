@@ -268,6 +268,17 @@
     ]
   },
   {
+    "firstName": "Paweł",
+    "lastName": "Konior",
+    "talks": [
+      {
+        "meetup": 38,
+        "date": "2019-07-17",
+        "title": "Naucz się programować w x tygodni - demistyfikacja"
+      }
+    ]
+  },
+  {
     "firstName": "Andrzej",
     "lastName": "Kopeć",
     "talks": [
@@ -597,6 +608,17 @@
         "meetup": 13,
         "date": "2015-04-10",
         "title": "Jak pisać maile, aby nas zrozumiano - 5 głównych problemów w komunikacji drogą elekroniczną okiem praktyka"
+      }
+    ]
+  },
+  {
+    "firstName": "Michał",
+    "lastName": "Wiśniewski",
+    "talks": [
+      {
+        "meetup": 38,
+        "date": "2019-07-17",
+        "title": "NodeJS with Raspberry Pi in IoT infrastructure"
       }
     ]
   }

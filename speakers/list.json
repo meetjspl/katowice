@@ -402,13 +402,13 @@
     ]
   },
   {
-    "firstName": "Andrzej",
-    "lastName": "Mazur",
+    "firstName": "Radosław",
+    "lastName": "Madecki",
     "talks": [
       {
-        "meetup": 30,
-        "date": "2018-03-14",
-        "title": "Czego można się nauczyć na podstawie 800 gier stworzonych na konkurs?"
+        "meetup": 40,
+        "date": "2019-11-27",
+        "title": "Zrozumieć asynchroniczność w JavaScript"
       }
     ]
   },
@@ -423,6 +423,28 @@
         "urls": {
           "slides": "http://womanonrails.github.io/presentation-leaflet"
         }
+      }
+    ]
+  },
+  {
+    "firstName": "Andrzej",
+    "lastName": "Mazur",
+    "talks": [
+      {
+        "meetup": 30,
+        "date": "2018-03-14",
+        "title": "Czego można się nauczyć na podstawie 800 gier stworzonych na konkurs?"
+      }
+    ]
+  },
+  {
+    "firstName": "Dawid",
+    "lastName": "Mazur",
+    "talks": [
+      {
+        "meetup": 39,
+        "date": "2019-09-11",
+        "title": "Oddajcie mi moje interfejsy! - dobre praktyki oraz JavaScript"
       }
     ]
   },
@@ -601,6 +623,17 @@
     ]
   },
   {
+    "firstName": "Michał",
+    "lastName": "Taszycki",
+    "talks": [
+      {
+        "meetup": 40,
+        "date": "2019-11-27",
+        "title": "Architektura aplikacji w Reakcie - czyli poszukiwania świętego Graala"
+      }
+    ]
+  },
+  {
     "firstName": "Ela",
     "lastName": "Ustupska",
     "talks": [
@@ -619,6 +652,17 @@
         "meetup": 38,
         "date": "2019-07-17",
         "title": "NodeJS with Raspberry Pi in IoT infrastructure"
+      }
+    ]
+  },
+  {
+    "firstName": "Grzegorz R.",
+    "lastName": "Wróblewski",
+    "talks": [
+      {
+        "meetup": 39,
+        "date": "2019-09-11",
+        "title": "ElectronJS w praktyce, czyli wieloplatformowe aplikacje typu Desktop"
       }
     ]
   }

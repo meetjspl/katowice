@@ -37,7 +37,7 @@ Na naszych spotkania obowiązuje [Berliński Kodeks Postępowania][berlin-coc]. 
 
 ## Agenda
 
-1. {% talk 'Jaroslaw Bagnicki' 'TBA' %}
+1. {% talk 'Jarosław Bagnicki' 'TBA' %}
 {% endtalk %}
 2. {% talk 'Józef Piecyk' 'Gatsby - moja strona jest szybsza niż Twoja' %}
 {% endtalk %}

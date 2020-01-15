@@ -37,7 +37,8 @@ Na naszych spotkania obowiązuje [Berliński Kodeks Postępowania][berlin-coc]. 
 
 ## Agenda
 
-1. {% talk 'Jarosław Bagnicki' 'TBA' %}
+1. {% talk 'Jarosław Bagnicki' 'Storybook - narzędzie, które może ułatwić życie niejednemu frontendowcowi' %}
+Krótka historia tego jak Storybook okazał się panaceum na wiele moich bolączek w codziennej pracy frontendowca.
 {% endtalk %}
 2. {% talk 'Józef Piecyk' 'Gatsby - moja strona jest szybsza niż Twoja' %}
 {% endtalk %}

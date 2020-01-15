@@ -1,5 +1,16 @@
 [
   {
+    "firstName": "Jarosław",
+    "lastName": "Bagnicki",
+    "talks": [
+      {
+        "meetup": 41,
+        "date": "2020-01-27",
+        "title": "Storybook - narzędzie, które może ułatwić życie niejednemu frontendowcowi"
+      }
+    ]
+  },
+  {
     "firstName": "Piotr",
     "lastName": "Borysowski",
     "talks": [
@@ -513,6 +524,17 @@
         "urls": {
           "slides": "http://bit.ly/2p2M7H4"
         }
+      }
+    ]
+  },
+  {
+    "firstName": "Józef",
+    "lastName": "Piecyk",
+    "talks": [
+      {
+        "meetup": 41,
+        "date": "2020-01-27",
+        "title": "Gatsby - moja strona jest szybsza niż Twoja"
       }
     ]
   },

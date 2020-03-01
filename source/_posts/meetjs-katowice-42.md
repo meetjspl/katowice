@@ -1,15 +1,15 @@
 ---
-title: 'meet.js Katowice #41'
+title: 'meet.js Katowice #42'
 event:
-  time: 2020-01-27 17:00:00
+  time: 2020-03-18 17:00:00
   place:
     name: 'Strefa Centralna Katowice'
     url: https://pl-pl.facebook.com/pages/Strefa-Centralna/1376006482624106
     geo: 50.253252,19.023677
   social_links:
-    facebook: https://www.facebook.com/events/1004598216579747/
-  tickets: https://www.eventbrite.com/e/meetjs-katowice-41-tickets-89828757231
-date: 2020-01-15 12:00:00
+    facebook: https://www.facebook.com/events/195462365123741/
+  tickets: https://www.eventbrite.com/e/meetjs-katowice-42-tickets-97583281221
+date: 2020-03-01 12:00:00
 categories:
   - 'Spotkanie'
 tags:
@@ -19,7 +19,7 @@ tags:
 ---
 ## Opis
 
-Serdecznie zapraszamy na pierwsze spotkanie meet.js Katowice w 2020 roku. Uwaga - tym razem wyjątkowo w poniedziałek!
+Serdecznie zapraszamy na kolejne spotkanie meet.js Katowice.
 
 Spotkanie jest w pełni darmowe, przyjść może każdy, ale ze względu na ograniczoną liczbę miejsc obowiązuje rejestracja. Spotkanie odbywa się w języku polskim.
 
@@ -37,19 +37,17 @@ Na naszych spotkania obowiązuje [Berliński Kodeks Postępowania][berlin-coc]. 
 
 ## Agenda
 
-1. {% talk 'Jarosław Bagnicki' 'Storybook - narzędzie, które może ułatwić życie niejednemu frontendowcowi' %}
-Krótka historia tego jak Storybook okazał się panaceum na wiele moich bolączek w codziennej pracy frontendowca.
-{% endtalk %}
-2. {% talk 'Józef Piecyk' 'Gatsby - moja strona jest szybsza niż Twoja' %}
-{% endtalk %}
+1. TBA
+2. TBA
 
 ## Sponsorzy
 
-[{% img /images/sponsors/tsh.png 240 88 The Software House %}][tsh][{% img /images/sponsors/clearcode.png 240 88 Clearcode %}][clearcode][{% img /images/sponsors/futuremind.png 240 88 FutureMind %}][futuremind][{% img /images/sponsors/jetbrains.png 240 88 JetBrains %}][jetbrains]
+[{% img /images/sponsors/tsh.png 240 88 The Software House %}][tsh][{% img /images/sponsors/clearcode.png 240 88 Clearcode %}][clearcode][{% img /images/sponsors/futuremind.png 240 88 FutureMind %}][futuremind][{% img /images/sponsors/jetbrains.png 240 88 JetBrains %}][jetbrains][{% img /images/sponsors/helion.png 240 88 Helion %}][helion]
 
 [tsh]: https://tsh.io/
 [clearcode]: https://clearcode.cc/
 [futuremind]: https://www.futuremind.com/
 [jetbrains]: https://www.jetbrains.com
+[helion]: https://helion.pl/
 
 [berlin-coc]: http://berlincodeofconduct.org/pl

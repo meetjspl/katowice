@@ -19,6 +19,20 @@ tags:
 ---
 ## Opis
 
+**UWAGA**
+
+W związku z rosnącą liczbą zachorowań na SARS-CoV-2 (koronawirus) w Polsce (również na Śląsku), oraz ze względu na częste podróże części naszych uczestników przez duże węzły komunikacyjne, takie jak Monachium czy Frankfurt, po burzliwej dyskusji postanowiliśmy odwołać najbliższe spotkanie w Katowicach (18.03).
+
+Nie jesteśmy kompetentni oceniać, czy to dobra decyzja, czy też powielamy "medialną panikę", ale zdrowie i bezpieczeństwo uczestników naszych spotkań jest dla nas najważniejsze.
+
+Prelekcje przygotowane na marcowe spotkanie zostaną wygłoszone, jeśli tylko prelegenci wyrażą chęć, w innym terminie.
+
+Bez decyzji na razie pozostaje organizacja spotkań w kolejnych miesiącach. Będzie to oczywiście uzależnione od aktualnej sytuacji w naszym regionie.
+
+Dziękujemy za zrozumienie.
+
+---
+
 Serdecznie zapraszamy na kolejne spotkanie meet.js Katowice.
 
 Spotkanie jest w pełni darmowe, przyjść może każdy, ale ze względu na ograniczoną liczbę miejsc obowiązuje rejestracja. Spotkanie odbywa się w języku polskim.

@@ -10,7 +10,8 @@
     "develop": "npx hexo server",
     "gen:pages": "npx hexo generate -f",
     "gen:pages:watch": "npx hexo generate -fw",
-    "gen:speakers": "cd speakers && node generate.js"
+    "gen:speakers": "cd speakers && node generate.js",
+    "build": "npm run gen:speakers && npx hexo generate"
   },
   "dependencies": {
     "ajv-cli": "^5.0.0",

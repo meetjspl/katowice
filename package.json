@@ -6,15 +6,16 @@
     "version": "6.2.0"
   },
   "scripts": {
-    "validate": "npx ajv -s speakers/list.schema.json -d speakers/list.json",
-    "develop": "npx hexo server",
-    "gen:pages": "npx hexo generate -f",
-    "gen:pages:watch": "npx hexo generate -fw",
+    "validate": "ajv -c ajv-formats -s speakers/list.schema.json -d speakers/list.json",
+    "develop": "hexo server",
+    "gen:pages": "hexo generate -f",
+    "gen:pages:watch": "hexo generate -fw",
     "gen:speakers": "cd speakers && node generate.js",
-    "build": "npm run gen:speakers && npx hexo generate"
+    "build": "npm run gen:speakers && hexo generate"
   },
   "dependencies": {
     "ajv-cli": "^5.0.0",
+    "ajv-formats": "^2.1.1",
     "ejs": "^3.1.8",
     "hexo": "^6.2.0",
     "hexo-cli": "^4.3.0",

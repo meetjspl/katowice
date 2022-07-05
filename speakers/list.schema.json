@@ -39,8 +39,7 @@
           "properties": {
             "meetup": {
               "description": "Number of meetup the talk was presented on",
-              "type": "integer",
-              "exclusiveMinimum": 0
+              "type": "integer"
             },
             "date": {
               "description": "Date when the talk was presented",
@@ -70,13 +69,21 @@
               }
             }
           },
-          "required": ["meetup", "date", "title"]
+          "required": [
+            "meetup",
+            "date",
+            "title"
+          ]
         },
         "minItems": 1,
         "uniqueItems": true
       }
     },
-    "required": ["firstName", "lastName", "talks"]
+    "required": [
+      "firstName",
+      "lastName",
+      "talks"
+    ]
   },
   "uniqueItems": true
 }

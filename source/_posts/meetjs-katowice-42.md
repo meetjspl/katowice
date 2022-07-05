@@ -31,37 +31,4 @@ Bez decyzji na razie pozostaje organizacja spotkań w kolejnych miesiącach. Bę
 
 Dziękujemy za zrozumienie.
 
----
-
-Serdecznie zapraszamy na kolejne spotkanie meet.js Katowice.
-
-Spotkanie jest w pełni darmowe, przyjść może każdy, ale ze względu na ograniczoną liczbę miejsc obowiązuje rejestracja. Spotkanie odbywa się w języku polskim.
-
-Jeśli chcesz przekazać uczestnikom spotkania jakieś informacje - wystąpić z krótkim przemówieniem i pokazać ciekawą technologię, skrytykować jakieś rozwiązanie, zaprezentować swój projekt lub poinformować o jakiejś inicjatywie, prosimy o [kontakt z organizatorami](/about/#Kontakt).
-
-Spotkanie odbywa się w języku polskim.
-
-### Bilety
-
-Spotkanie jest w pełni darmowe, przyjść może każdy, ale ze względu na ograniczoną ilość miejsc obowiązuje **rejestracja**. Darmowe bilety można uzyskać na portalu Eventbrite (link w nagłówku strony).
-
-### Zasady
-
-Na naszych spotkania obowiązuje [Berliński Kodeks Postępowania][berlin-coc]. Zapraszamy wszystkich uczestników i uczestniczki naszych wydarzeń do pomocy w tworzeniu przeżyć, które będą bezpieczne i pozytywne dla każdego.
-
-## Agenda
-
-1. TBA
-2. TBA
-
-## Sponsorzy
-
-[{% img /images/sponsors/tsh.png 240 88 The Software House %}][tsh][{% img /images/sponsors/clearcode.png 240 88 Clearcode %}][clearcode][{% img /images/sponsors/futuremind.png 240 88 FutureMind %}][futuremind][{% img /images/sponsors/jetbrains.png 240 88 JetBrains %}][jetbrains][{% img /images/sponsors/helion.png 240 88 Helion %}][helion]
-
-[tsh]: https://tsh.io/
-[clearcode]: https://clearcode.cc/
-[futuremind]: https://www.futuremind.com/
-[jetbrains]: https://www.jetbrains.com
-[helion]: https://helion.pl/
-
 [berlin-coc]: http://berlincodeofconduct.org/pl

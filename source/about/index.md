@@ -27,7 +27,17 @@ Wstęp na spotkania jest darmowy, obowiązuje jednak rejestracja i okazanie przy
 
 Dzięki wsparciu sponsorów możemy zapewnić wam darmowy poczęstunek, różne ciekawe gadżety oraz nagrody rzeczowe (takie jak książki, kursy wideo lub licencje na oprogramowanie), zaprosić prelegentów z innych miast oraz zapewnić odpowiedni poziom organizacji i odbioru spotkań.
 
-### Aktualni (2019)
+### 2022
+* [TSH][tsh]
+* [Clearcode][clearcode]
+* [Future Mind][futuremind]
+
+#### 2020
+* [TSH][tsh]
+* [Clearcode][clearcode]
+* [Future Mind][futuremind]
+
+#### 2019
 
 * [skygate][skygate]
 * [Clearcode][clearcode]
@@ -36,7 +46,7 @@ Dzięki wsparciu sponsorów możemy zapewnić wam darmowy poczęstunek, różne 
 * [JetBrains][jetbrains]
 * [Wes Bos][wesbos]
 
-### 2018
+#### 2018
 
 * [skygate][skygate]
 * [NBC][nbc]
@@ -67,19 +77,11 @@ Dzięki wsparciu sponsorów możemy zapewnić wam darmowy poczęstunek, różne 
 
 ## Kontakt
 
-Z organizatorami spotkań można skontaktować się bezpośrednio:
+* grupa {% icon_link meetup https://www.meetup.com/meet-js-Katowice/ %} [meetup.com](https://www.meetup.com/meet-js-Katowice/)
+* społeczność {% icon_link facebook https://www.facebook.com/meetjspl/ %} [Facebook](https://www.facebook.com/meetjspl/)
+* adres email {% icon_link envelope 'mailto:' email %} katowice@meetjs.pl
 
-* Jakub Synowiec {% icon_link facebook https://www.facebook.com/jakub.synowiec %} {% icon_link twitter https://twitter.com/jakubsynowiec %}
-* Szymon Nowak {% icon_link facebook https://www.facebook.com/szimek %} {% icon_link twitter https://www.twitter.com/szimek %}
-* Jacek Rzeszutek {% icon_link facebook https://www.facebook.com/jacek.rzeszutek.1 %} {% icon_link twitter https://www.twitter.com/grechut %}
-
-lub za pomocą:
-
-* grupy {% icon_link meetup https://www.meetup.com/meet-js-Katowice/ %} [meetup.com](https://www.meetup.com/meet-js-Katowice/)
-* społeczności {% icon_link facebook https://www.facebook.com/meetjspl/ %} [Facebook](https://www.facebook.com/meetjspl/)
-* pod adresem {% icon_link envelope 'mailto:' email %} katowice@meetjs.pl
-
-[cfp]: https://katowice.meetjs.pl/2019/01/12/cfp-2019/
+[cfp]: https://katowice.meetjs.pl/2022/07/05/cfp-2022/
 [strefa-centralna]: https://www.facebook.com/klubokawiarniaoswiecona
 [berlin-coc]: http://berlincodeofconduct.org/pl
 [skygate]: https://skygate.io
@@ -88,6 +90,7 @@ lub za pomocą:
 [smsapi]: https://www.smsapi.pl
 [coderslab]: https://coderslab.pl
 [futuremind]: https://www.futuremind.com
+[tsh]: https://tsh.io
 [helion]: https://helion.pl
 [microsoft]: https://www.microsoft.com/pl-pl
 [jetbrains]: https://www.jetbrains.com

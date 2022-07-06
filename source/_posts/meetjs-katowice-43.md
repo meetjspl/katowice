@@ -33,7 +33,7 @@ Na naszych spotkania obowiązuje [Berliński Kodeks Postępowania][berlin-coc]. 
 
 ## Agenda
 
-1. Aleksander Patsche – Od Figmy do działającej aplikacji React w 15 minut
+1. Aleksander Patschek – Od Figmy do działającej aplikacji React w 15 minut
 2. TBA
 
 ## Sponsorzy

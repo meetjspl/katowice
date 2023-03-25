@@ -27,7 +27,12 @@ Wstęp na spotkania jest darmowy, obowiązuje jednak rejestracja i okazanie przy
 
 Dzięki wsparciu sponsorów możemy zapewnić wam darmowy poczęstunek, różne ciekawe gadżety oraz nagrody rzeczowe (takie jak książki, kursy wideo lub licencje na oprogramowanie), zaprosić prelegentów z innych miast oraz zapewnić odpowiedni poziom organizacji i odbioru spotkań.
 
-### 2022
+### 2023
+* [TSH][tsh]
+* [Clearcode][clearcode]
+* [Future Mind][futuremind]
+
+#### 2022
 * [TSH][tsh]
 * [Clearcode][clearcode]
 * [Future Mind][futuremind]
